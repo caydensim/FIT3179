@@ -25,7 +25,6 @@ Bhutan,0,0,0,0
 Bosnia and Herzegovina,0,0,0,0
 Belize,0,0,0,0
 Belarus,71,44,24,139
-Czech Republic,60,32,42,134
 Bolivia,0,0,0,0
 Botswana,0,1,0,1
 Brazil,135,159,100,394
@@ -33,17 +32,17 @@ Bahrain,1,1,1,3
 Brunei,0,0,0,0
 Bulgaria,97,89,33,219
 Burkina Faso,0,0,0,0
-Central African Republic,0,0,0,0
+Central African Rep.,0,0,0,0
 Cambodia,0,0,0,0
 Canada,250,283,303,836
 Cayman Islands,0,0,0,0
-Republic of the Congo,0,0,0,0
+Congo,0,0,0,0
 Chad,0,0,0,0
 Chile,18,2,3,23
 China,268,325,308,901
 Ivory Coast,0,0,0,0
 Cameroon,1,0,20,21
-Democratic Republic of the Congo,0,0,0,0
+Dem. Rep. Congo,0,0,0,0
 Cook Islands,0,0,0,0
 Colombia,12,7,5,24
 Comoros,0,0,0,0
@@ -53,11 +52,11 @@ Croatia,37,54,58,149
 Greece,29,33,22,84
 Cuba,84,110,149,343
 Cyprus,0,1,0,1
-Czech Republic,60,32,42,134
+Czechia,60,32,42,134
 Denmark,61,40,92,193
 Djibouti,1,0,0,1
 Dominica,0,0,0,0
-Dominican Republic,2,2,3,7
+Dominican Rep.,2,2,3,7
 Ecuador,0,1,1,2
 Egypt,7,4,1,12
 Eritrea,1,0,0,1
@@ -168,7 +167,6 @@ North Korea,20,13,14,47
 Puerto Rico,4,2,1,7
 Qatar,4,1,0,5
 Zimbabwe,1,4,17,22
-NA,0,0,0,0
 Romania,182,143,137,462
 South Africa,22,19,15,56
 Russia,391,344,365,1100
@@ -187,7 +185,7 @@ Solomon Islands,0,0,0,0
 Somalia,0,0,0,0
 Serbia,41,29,15,85
 Sri Lanka,0,1,0,1
-South Sudan,0,0,0,0
+S. Sudan,0,0,0,0
 Sao Tome and Principe,0,0,0,0
 Sudan,0,1,0,1
 Switzerland,76,66,55,197
@@ -197,7 +195,7 @@ Sweden,185,212,118,515
 Swaziland,0,0,0,0
 Syria,1,1,1,3
 Tanzania,0,2,0,2
-Czech Republic,60,32,42,134
+Czech Republic,0,0,0,0
 Tonga,0,1,0,1
 Thailand,12,8,9,29
 Tajikistan,2,1,1,4
