@@ -42,7 +42,7 @@ Chile,18,2,3,23
 China,268,325,308,901
 Ivory Coast,0,0,0,0
 Cameroon,1,0,20,21
-Democratic Republic of the Congo,0,0,0,0
+Congo,0,0,0,0
 Cook Islands,0,0,0,0
 Colombia,12,7,5,24
 Comoros,0,0,0,0
@@ -72,7 +72,7 @@ Germany,411,349,425,1185
 Micronesia,0,0,0,0
 Gabon,0,1,0,1
 Gambia,0,0,0,0
-UK,0,0,0,0
+Great Britain,266,229,234,729
 Guinea-Bissau,0,0,0,0
 Georgia,18,6,8,32
 Equatorial Guinea,0,0,0,0
@@ -94,9 +94,9 @@ Ireland,7,10,5,22
 Iraq,0,0,0,0
 Iceland,2,14,0,16
 Israel,7,1,1,9
-"Virgin Islands, US",0,0,0,0
+Virgin Islands,0,0,0,0
 Italy,283,238,203,724
-"Virgin Islands, British",0,0,0,0
+British Virgin Islands,0,0,0,0
 Jamaica,43,68,31,142
 Jordan,0,0,1,1
 Japan,256,186,109,551
@@ -161,7 +161,6 @@ North Korea,20,13,14,47
 Puerto Rico,4,2,1,7
 Qatar,4,1,0,5
 Zimbabwe,1,4,17,22
-NA,0,0,0,0
 Romania,182,143,137,462
 South Africa,22,19,15,56
 Rwanda,0,0,0,0
@@ -179,6 +178,7 @@ Somalia,0,0,0,0
 Sri Lanka,0,1,0,1
 South Sudan,0,0,0,0
 Sao Tome and Principe,0,0,0,0
+South Sudan,0,0,0,0
 Sudan,0,1,0,1
 Switzerland,76,66,55,197
 Suriname,1,0,1,2
@@ -201,7 +201,7 @@ United Arab Emirates,1,0,1,2
 Uganda,1,1,1,3
 Ukraine,98,52,47,197
 Uruguay,0,1,0,1
-USA,0,0,0,0
+United States,641,804,1257,2702
 Uzbekistan,17,7,10,34
 Vanuatu,0,0,0,0
 Venezuela,8,2,1,11
