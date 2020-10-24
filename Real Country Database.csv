@@ -341,7 +341,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 2743,Zhanibek Alimkhanuly,M,23,Kazakhstan,Boxing,NA
 2749,Aline Villares Reis,F,27,Brazil,Football,NA
 2755,Aleksey Aleksandrovich Alipov,M,40,Russia,Shooting,NA
-2758,Alison Conte Cerutti,M,30,Brazil-1,Beach Volleyball,Gold
+2758,Alison Conte Cerutti,M,30,Brazil,Beach Volleyball,Gold
 2765,Pirmammad Sadiyarovich Aliyev,M,18,Kazakhstan,Trampolining,NA
 2769,Kimia Alizadeh Zenoorin,F,18,Iran,Taekwondo,Bronze
 2775,Antonio Alkana,M,26,South Africa,Athletics,NA
@@ -519,7 +519,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 4553,Vinicius Biagi Antonelli,M,26,Brazil,Water Polo,NA
 4557,Dimitrios Antoniadis,M,24,Greece,Cycling,NA
 4575,Oleg Antonov,M,28,Italy,Volleyball,Silver
-4599,Lenka Antoov,F,24,Czech Republic,Rowing,NA
+4599,Lenka Antoov,F,24,Czechia,Rowing,NA
 4614,Mohamad Khairul Anuar,M,24,Malaysia,Archery,NA
 4614,Mohamad Khairul Anuar,M,24,Malaysia,Archery,NA
 4627,Shehzana Anwar,F,26,Kenya,Archery,NA
@@ -740,7 +740,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 6385,Nooran Ahmed Ali Ba Matraf,F,16,Yemen,Swimming,NA
 6397,"Alexander German ""Sander"" Baart",M,28,Netherlands,Hockey,NA
 6402,Baatarskhiin Chinzorig,M,24,Mongolia,Boxing,NA
-6406,Jaroslav Bba,M,31,Czech Republic,Athletics,NA
+6406,Jaroslav Bba,M,31,Czechia,Athletics,NA
 6414,Bashir Asgari Babajanzadeh Darzi,M,26,Iran,Wrestling,NA
 6420,Glbadam Babamyradowa,F,24,Turkmenistan,Judo,NA
 6427,Lalita Shivaji Babar,F,27,India,Athletics,NA
@@ -783,7 +783,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 6969,Balzs Baji,M,27,Hungary,Athletics,NA
 6983,Bak Ji-Yun,F,23,South Korea,Judo,NA
 7013,Brian Richard Baker,M,31,United States of America,Tennis,NA
-7013,Brian Richard Baker,M,31,United States of America-1,Tennis,NA
+7013,Brian Richard Baker,M,31,United States of America,Tennis,NA
 7014,"Christopher Edwin ""Chris"" Baker",M,25,United Kingdom,Athletics,NA
 7016,Georgia Baker,F,21,Australia,Cycling,NA
 7020,Kathleen Baker,F,19,United States of America,Swimming,Silver
@@ -818,7 +818,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 7347,Coralie Balmy,F,29,France,Swimming,NA
 7347,Coralie Balmy,F,29,France,Swimming,NA
 7347,Coralie Balmy,F,29,France,Swimming,NA
-7348,Michal Balner,M,33,Czech Republic,Athletics,NA
+7348,Michal Balner,M,33,Czechia,Athletics,NA
 7354,Gbor Balog,M,25,Hungary,Swimming,NA
 7354,Gbor Balog,M,25,Hungary,Swimming,NA
 7379,Bernardo Baloyes Navas,M,22,Colombia,Athletics,NA
@@ -855,7 +855,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 7707,Azad Al-Barazi,M,28,Syria,Swimming,NA
 7711,Ana Luiza Busato Barbachan,F,26,Brazil,Sailing,NA
 7715,Anthony John Barbar,M,23,Lebanon,Swimming,NA
-7716,Brbara Seixas de Freitas,F,29,Brazil-1,Beach Volleyball,Silver
+7716,Brbara Seixas de Freitas,F,29,Brazil,Beach Volleyball,Silver
 7717,Brbara Micheline do Monte Barbosa,F,28,Brazil,Football,NA
 7728,Alana Barber,F,29,New Zealand,Athletics,NA
 7740,"Shawnacy Campbell ""Shawn"" Barber",M,22,Canada,Athletics,NA
@@ -909,12 +909,12 @@ ID,Name,Sex,Age,Team,Sport,Medal
 8198,Trevor George Barry,M,33,Bahamas,Athletics,NA
 8200,Florina Maria Brsan-Chintoan,F,30,Romania,Handball,NA
 8204,Mutaz Essa Barshim,M,25,Qatar,Athletics,Silver
-8211,Dmitry Nikolayevich Barsuk,M,36,Russia-2,Beach Volleyball,NA
+8211,Dmitry Nikolayevich Barsuk,M,36,Russia,Beach Volleyball,NA
 8212,Tatyana Valeryevna Barsuk,F,31,Russia,Shooting,NA
 8214,Jacob Jepsen Barse,M,27,Denmark,Rowing,Silver
 8215,Adrien Bart,M,24,France,Canoeing,NA
-8221,Jan Brta,M,31,Czech Republic,Cycling,NA
-8221,Jan Brta,M,31,Czech Republic,Cycling,NA
+8221,Jan Brta,M,31,Czechia,Cycling,NA
+8221,Jan Brta,M,31,Czechia,Cycling,NA
 8234,Danka Bartekov,F,31,Slovakia,Shooting,NA
 8237,Beatrice Bartelloni,F,23,Italy,Cycling,NA
 8304,"Christopher Roger ""Chris"" Bartley",M,32,United Kingdom,Rowing,NA
@@ -959,12 +959,12 @@ ID,Name,Sex,Age,Team,Sport,Medal
 8764,Jackie Baumann,F,20,Germany,Athletics,NA
 8775,Anne Sofie Holm Baumeister (Jrgensen-),F,28,Denmark,Athletics,NA
 8785,Iga Baumgart,F,27,Poland,Athletics,NA
-8803,Simona Baumrtov,F,24,Czech Republic,Swimming,NA
-8803,Simona Baumrtov,F,24,Czech Republic,Swimming,NA
-8803,Simona Baumrtov,F,24,Czech Republic,Swimming,NA
-8803,Simona Baumrtov,F,24,Czech Republic,Swimming,NA
+8803,Simona Baumrtov,F,24,Czechia,Swimming,NA
+8803,Simona Baumrtov,F,24,Czechia,Swimming,NA
+8803,Simona Baumrtov,F,24,Czechia,Swimming,NA
+8803,Simona Baumrtov,F,24,Czechia,Swimming,NA
 8833,Roberto Bautista Agut,M,28,Spain,Tennis,NA
-8833,Roberto Bautista Agut,M,28,Spain-1,Tennis,NA
+8833,Roberto Bautista Agut,M,28,Spain,Tennis,NA
 8853,Louise Bawden,F,34,Australia-1,Beach Volleyball,NA
 8876,Ana Gabriela Bayardo Chan,F,22,Mexico,Archery,NA
 8876,Ana Gabriela Bayardo Chan,F,22,Mexico,Archery,NA
@@ -1001,7 +1001,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 9251,Jana Beckmann,F,33,Germany,Shooting,NA
 9285,Alex Beddoes,M,21,Cook Islands,Athletics,NA
 9297,Domonic Bedggood,M,21,Australia,Diving,NA
-9307,gatha Bednarczuk Rippel,F,33,Brazil-1,Beach Volleyball,Silver
+9307,gatha Bednarczuk Rippel,F,33,Brazil,Beach Volleyball,Silver
 9310,Sylwester Bednarek,M,27,Poland,Athletics,NA
 9314,Bartosz Bednorz,M,22,Poland,Volleyball,NA
 9347,Olivier Beer,M,25,Switzerland,Cycling,NA
@@ -1049,7 +1049,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 9677,Tia-Adana Belle,F,20,Barbados,Athletics,NA
 9692,Janeil Bellille,F,27,Trinidad and Tobago,Athletics,NA
 9738,Thomaz Cocchiarali Bellucci,M,28,Brazil,Tennis,NA
-9738,Thomaz Cocchiarali Bellucci,M,28,Brazil-1,Tennis,NA
+9738,Thomaz Cocchiarali Bellucci,M,28,Brazil,Tennis,NA
 9749,Dailn Belmonte Torres,F,30,Cuba,Athletics,NA
 9750,Mireia Belmonte Garca,F,25,Spain,Swimming,NA
 9750,Mireia Belmonte Garca,F,25,Spain,Swimming,NA
@@ -1111,7 +1111,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 10257,"Joseph ""Gunnar"" Bentz",M,20,United States of America,Swimming,Gold
 10259,Matej Beu,M,28,Slovakia,Canoeing,Silver
 10273,Jan Benzien,M,34,Germany,Canoeing,NA
-10279,Ji Beran,M,34,Czech Republic,Fencing,NA
+10279,Ji Beran,M,34,Czechia,Fencing,NA
 10283,Riardas Berankis,M,26,Lithuania,Tennis,NA
 10315,Ccilia Berder,F,26,France,Fencing,NA
 10315,Ccilia Berder,F,26,France,Fencing,NA
@@ -1133,7 +1133,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 10656,Mara Bernabu Avomo,F,28,Spain,Judo,NA
 10691,Maria Bernard,F,23,Canada,Athletics,NA
 10716,Natlia Maria Bernardo,F,29,Angola,Handball,NA
-10718,Soa Bernardov,F,40,Czech Republic,Synchronized Swimming,NA
+10718,Soa Bernardov,F,40,Czechia,Synchronized Swimming,NA
 10728,Jean-Baptiste Bernaz,M,29,France,Sailing,NA
 10737,Pter Bernek,M,24,Hungary,Swimming,NA
 10737,Pter Bernek,M,24,Hungary,Swimming,NA
@@ -1613,7 +1613,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 15406,Kristina Brring-Sprehe,F,29,Germany,Equestrianism,Gold
 15436,Julie Brougham,F,62,New Zealand,Equestrianism,NA
 15437,Gayle Broughton,F,20,New Zealand,Rugby Sevens,Silver
-15446,Alexander Brouwer,M,26,Netherlands-1,Beach Volleyball,Bronze
+15446,Alexander Brouwer,M,26,Netherlands,Beach Volleyball,Bronze
 15460,Aaron Brown,M,24,Canada,Athletics,NA
 15460,Aaron Brown,M,24,Canada,Athletics,NA
 15460,Aaron Brown,M,24,Canada,Athletics,Bronze
@@ -1778,7 +1778,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 17183,Lani Rose Cabrera,F,23,Barbados,Swimming,NA
 17186,Rafael Cabrera Bello,M,32,Spain,Golf,NA
 17208,Juan Ignacio Cceres,M,24,Argentina,Canoeing,NA
-17215,Kateina Cachov,F,26,Czech Republic,Athletics,NA
+17215,Kateina Cachov,F,26,Czechia,Athletics,NA
 17236,Levi Asher Cadogan,M,20,Barbados,Athletics,NA
 17238,Jrmy Cadot,M,29,France,Fencing,NA
 17238,Jrmy Cadot,M,29,France,Fencing,Silver
@@ -2055,18 +2055,18 @@ ID,Name,Sex,Age,Team,Sport,Medal
 19652,Victria Chamorro,F,20,Brazil,Water Polo,NA
 19656,Simeon Chamov,M,25,Bulgaria,Boxing,NA
 19668,Chan Chun Hing,M,35,Hong Kong,Cycling,NA
-19675,Chan Hao-Ching,F,22,Chinese Taipei,Tennis,NA
+19675,Chan Hao-Ching,F,22,China,Tennis,NA
 19692,Chan Ming Tai,M,21,Hong Kong,Athletics,NA
 19696,Chan Peng Soon,M,28,Malaysia,Badminton,Silver
 19705,"Zhi Cheng ""Tiffany"" Chan",F,22,Hong Kong,Golf,NA
-19711,Chan Yung-Jan,F,26,Chinese Taipei,Tennis,NA
+19711,Chan Yung-Jan,F,26,China,Tennis,NA
 19717,Dutee Chand,F,20,India,Athletics,NA
 19721,Nickel Nishal Chand,M,21,Fiji,Football,NA
 19727,Apurvi Singh Chandela,F,23,India,Shooting,NA
-19756,Chang Hao,M,25,Chinese Taipei,Sailing,NA
+19756,Chang Hao,M,25,China,Sailing,NA
 19760,Chang Hye-Jin,F,29,South Korea,Archery,Gold
 19760,Chang Hye-Jin,F,29,South Korea,Archery,Gold
-19788,Chang Ye-Na,F,26,South Korea-2,Badminton,NA
+19788,Chang Ye-Na,F,26,South Korea,Badminton,NA
 19795,Hassan Chani,M,28,Bahrain,Athletics,NA
 19797,Natthanan Chankrajang,F,30,Thailand,Swimming,NA
 19809,Kamolwan Chanyim,F,20,Thailand,Sailing,NA
@@ -2107,9 +2107,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 20149,Peruth Chemutai,F,17,Uganda,Athletics,NA
 20150,Chen Aisen,M,20,China,Diving,Gold
 20150,Chen Aisen,M,20,China,Diving,Gold
-20162,Chen Chieh,M,24,Chinese Taipei,Athletics,NA
-20163,Chen Chien-An,M,25,Chinese Taipei,Table Tennis,NA
-20163,Chen Chien-An,M,25,Chinese Taipei,Table Tennis,NA
+20162,Chen Chieh,M,24,China,Athletics,NA
+20163,Chen Chien-An,M,25,China,Table Tennis,NA
+20163,Chen Chien-An,M,25,China,Table Tennis,NA
 20182,Chen Ding,M,23,China,Athletics,NA
 20184,Chen Fang,F,32,China,Shooting,NA
 20186,Feng Chen,M,22,Singapore,Table Tennis,NA
@@ -2119,29 +2119,29 @@ ID,Name,Sex,Age,Team,Sport,Medal
 20235,Chen Lijun,M,23,China,Weightlifting,NA
 20238,Chen Long,M,27,China,Badminton,Gold
 20245,Chen Nan,F,33,China,Basketball,NA
-20246,Chen Nien-Chin,F,19,Chinese Taipei,Boxing,NA
+20246,Chen Nien-Chin,F,19,China,Boxing,NA
 20247,Chen Peina,F,27,China,Sailing,Silver
 20250,Chen Qian,F,29,China,Modern Pentathlon,NA
 20258,Chen Ruolin,F,23,China,Diving,Gold
-20262,Chen Shih-Chieh,M,26,Chinese Taipei,Weightlifting,NA
-20267,Chen Szu-Yu,F,23,Chinese Taipei,Table Tennis,NA
-20267,Chen Szu-Yu,F,23,Chinese Taipei,Table Tennis,NA
-20278,Chen Wei-Ling,F,34,Chinese Taipei,Weightlifting,NA
-20283,Chen Wen-Ling,F,21,Chinese Taipei,Wrestling,NA
+20262,Chen Shih-Chieh,M,26,China,Weightlifting,NA
+20267,Chen Szu-Yu,F,23,China,Table Tennis,NA
+20267,Chen Szu-Yu,F,23,China,Table Tennis,NA
+20278,Chen Wei-Ling,F,34,China,Weightlifting,NA
+20283,Chen Wen-Ling,F,21,China,Wrestling,NA
 20285,"Hsuan-Yu ""Wendy"" Chen",F,23,Australia,Badminton,NA
 20290,Chen Xiaojia,F,28,China,Basketball,NA
 20299,Chen Xinyi,F,18,China,Swimming,NA
 20307,Chen Yang,F,25,China,Athletics,NA
 20315,Chen Ying,F,38,China,Shooting,NA
-20322,Chen Yu-Hsuan,F,23,Chinese Taipei,Athletics,NA
+20322,Chen Yu-Hsuan,F,23,China,Athletics,NA
 20341,Kynan Darius Chenai,M,25,India,Shooting,NA
 20352,"Li Mei ""Camille Lily"" Cheng",F,23,Hong Kong,Swimming,NA
 20352,"Li Mei ""Camille Lily"" Cheng",F,23,Hong Kong,Swimming,NA
 20352,"Li Mei ""Camille Lily"" Cheng",F,23,Hong Kong,Swimming,NA
 20352,"Li Mei ""Camille Lily"" Cheng",F,23,Hong Kong,Swimming,NA
 20361,"Xinru ""Colin"" Cheng",M,26,Singapore,Sailing,NA
-20367,Cheng I-Ching,F,24,Chinese Taipei,Table Tennis,NA
-20367,Cheng I-Ching,F,24,Chinese Taipei,Table Tennis,NA
+20367,Cheng I-Ching,F,24,China,Table Tennis,NA
+20367,Cheng I-Ching,F,24,China,Table Tennis,NA
 20372,"Chun Leung ""Michael"" Cheng",M,22,Hong Kong,Sailing,NA
 20386,Cheng Xunzhao,M,25,China,Judo,Bronze
 20393,Cheon Eun-Bi,F,24,South Korea,Hockey,NA
@@ -2178,7 +2178,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 20599,Phillip Hung Chew,M,22,United States of America,Badminton,NA
 20599,Phillip Hung Chew,M,22,United States of America,Badminton,NA
 20616,Danny Chia,M,43,Malaysia,Golf,NA
-20629,Chiang Hung-Chieh,M,27,Chinese Taipei,Table Tennis,NA
+20629,Chiang Hung-Chieh,M,27,China,Table Tennis,NA
 20643,Izabella Maizza Chiappini,F,20,Brazil,Water Polo,NA
 20645,Andrea Chiarabini,M,21,Italy,Diving,NA
 20645,Andrea Chiarabini,M,21,Italy,Diving,NA
@@ -2238,9 +2238,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 21132,Bei Fen Jovina Choo,F,26,Singapore,Sailing,NA
 21133,"Nyuk Lian ""Leanne"" Choo",F,25,Australia,Badminton,NA
 21138,"Joseph Tzen Zhun ""Joe"" Choong",M,21,United Kingdom,Modern Pentathlon,NA
-21159,Chou Tien-Chen,M,26,Chinese Taipei,Badminton,NA
+21159,Chou Tien-Chen,M,26,China,Badminton,NA
 21172,Marouan Chouiref,M,26,Tunisia,Handball,NA
-21173,Alexander Choupenitch,M,22,Czech Republic,Fencing,NA
+21173,Alexander Choupenitch,M,22,Czechia,Fencing,NA
 21174,Maialen Chourraut Yurramendi,F,33,Spain,Canoeing,Gold
 21179,Chov Sotheara,F,32,Cambodia,Wrestling,NA
 21183,Felice Chow,F,39,Trinidad and Tobago,Rowing,NA
@@ -2256,9 +2256,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 21300,Max Christiansen,M,19,Germany,Football,Silver
 21329,Antri Christoforou,F,24,Cyprus,Cycling,NA
 21338,Kate Christowitz,F,25,South Africa,Rowing,NA
-21376,Chuang Chia-Chia,F,27,Chinese Taipei,Taekwondo,NA
-21378,Chuang Chih-Yuan,M,35,Chinese Taipei,Table Tennis,NA
-21378,Chuang Chih-Yuan,M,35,Chinese Taipei,Table Tennis,NA
+21376,Chuang Chia-Chia,F,27,China,Taekwondo,NA
+21378,Chuang Chih-Yuan,M,35,China,Table Tennis,NA
+21378,Chuang Chih-Yuan,M,35,China,Table Tennis,NA
 21415,Dmytro Vitaliyovych Chumak,M,26,Ukraine,Weightlifting,NA
 21424,Chun In-Gee,F,21,South Korea,Golf,NA
 21439,Anton Mikhaylovich Chupkov,M,19,Russia,Swimming,Bronze
@@ -2280,7 +2280,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 21603,Deniz nar,M,31,Turkey,Sailing,NA
 21609,Darko Cingesar,M,26,Slovenia,Handball,NA
 21612,Mathilde Cini,F,21,France,Swimming,NA
-21613,Ondej Cink,M,25,Czech Republic,Cycling,NA
+21613,Ondej Cink,M,25,Czechia,Cycling,NA
 21617,Jeyvier Jess Cintrn Ocasio,M,21,Puerto Rico,Boxing,NA
 21668,"Christopher ""Chris"" Ciriello",M,30,Australia,Hockey,NA
 21673,Mikls Cirjenics,M,26,Hungary,Judo,NA
@@ -2619,7 +2619,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 24944,Daniel Alfredo Dal Bo,M,28,Argentina,Canoeing,NA
 24974,"Thomas Robert ""Tom"" Daley",M,22,United Kingdom,Diving,NA
 24974,"Thomas Robert ""Tom"" Daley",M,22,United Kingdom,Diving,Bronze
-24981,"Phillip Peter ""Phil"" Dalhausser",M,36,United States of America-1,Beach Volleyball,NA
+24981,"Phillip Peter ""Phil"" Dalhausser",M,36,United States of America,Beach Volleyball,NA
 24988,Manol Dall'Igna,M,31,France,Rugby Sevens,NA
 25003,Francesca Dallap,F,30,Italy,Diving,Silver
 25036,Chloe Elysha Dalton,F,23,Australia,Rugby Sevens,Gold
@@ -3074,8 +3074,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 29610,Mrio Jos dos Santos Jnior,M,36,Brazil,Athletics,NA
 29618,Sara Dosho,F,21,Japan,Wrestling,Gold
 29624,Celtus Williams Abiola Dossou Yovo,M,30,Benin,Judo,NA
-29627,Josef Dostl,M,23,Czech Republic,Canoeing,Silver
-29627,Josef Dostl,M,23,Czech Republic,Canoeing,Bronze
+29627,Josef Dostl,M,23,Czechia,Canoeing,Silver
+29627,Josef Dostl,M,23,Czechia,Canoeing,Bronze
 29644,Luca Dotto,M,26,Italy,Swimming,NA
 29644,Luca Dotto,M,26,Italy,Swimming,NA
 29644,Luca Dotto,M,26,Italy,Swimming,NA
@@ -3115,7 +3115,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 29890,Marian Drgulescu,M,35,Romania,Gymnastics,NA
 29890,Marian Drgulescu,M,35,Romania,Gymnastics,NA
 29890,Marian Drgulescu,M,35,Romania,Gymnastics,NA
-29898,Aneka Drahotov,F,21,Czech Republic,Athletics,NA
+29898,Aneka Drahotov,F,21,Czechia,Athletics,NA
 29899,Felix Drahotta,M,27,Germany,Rowing,Silver
 29914,Theodora Drakou,F,24,Greece,Swimming,NA
 29915,Rok Draki,M,29,Slovenia,Judo,NA
@@ -3166,7 +3166,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 30414,Annette Duetz,F,23,Netherlands,Sailing,NA
 30427,Justin Duff,M,28,Canada,Volleyball,NA
 30437,Flora Jane Duffy,F,28,Bermuda,Triathlon,NA
-30442,Albta Dufkov,F,26,Czech Republic,Synchronized Swimming,NA
+30442,Albta Dufkov,F,26,Czechia,Synchronized Swimming,NA
 30445,Cathrine Dufour,F,24,Denmark,Equestrianism,NA
 30445,Cathrine Dufour,F,24,Denmark,Equestrianism,NA
 30470,Dominic Dugasse,M,31,Seychelles,Judo,NA
@@ -3216,7 +3216,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 30952,Ann-Sophie Duyck,F,29,Belgium,Cycling,NA
 30959,Sultan Duzelbayev,M,22,Kazakhstan,Archery,NA
 30965,Kristijan urasek,M,29,Croatia,Cycling,NA
-30990,Filip Dvok,M,28,Czech Republic,Canoeing,NA
+30990,Filip Dvok,M,28,Czechia,Canoeing,NA
 30992,"Galyna Volodymyrivna ""Galia"" Dvorak Khasanova",F,28,Spain,Table Tennis,NA
 31004,iva Dvorak,F,25,Slovenia,Shooting,NA
 31004,iva Dvorak,F,25,Slovenia,Shooting,NA
@@ -3562,7 +3562,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 34552,Alysbeth Flix Boyer,F,23,Puerto Rico,Athletics,NA
 34555,Ana Dulce Ferreira Flix,F,33,Portugal,Athletics,NA
 34559,Kurt Anthony Felix,M,28,Grenada,Athletics,NA
-34598,Lauren Fendrick,F,34,United States of America-2,Beach Volleyball,NA
+34598,Lauren Fendrick,F,34,United States of America,Beach Volleyball,NA
 34605,Feng Bin,F,22,China,Athletics,NA
 34618,Feng Shanshan,F,26,China,Golf,Bronze
 34619,Feng Tian Wei,F,29,Singapore,Table Tennis,NA
@@ -3618,8 +3618,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 35007,Tiago Jorge de Oliveira Ferreira,M,27,Portugal,Cycling,NA
 35014,Darienn Ferrer Dels,M,33,Cuba,Volleyball,NA
 35015,David Ferrer Ern,M,34,Spain,Tennis,NA
-35015,David Ferrer Ern,M,34,Spain-1,Tennis,NA
-35015,David Ferrer Ern,M,34,Spain-1,Tennis,NA
+35015,David Ferrer Ern,M,34,Spain,Tennis,NA
+35015,David Ferrer Ern,M,34,Spain,Tennis,NA
 35027,Beatriz Ferrer-Salat Serra de Migui,F,50,Spain,Equestrianism,NA
 35027,Beatriz Ferrer-Salat Serra de Migui,F,50,Spain,Equestrianism,NA
 35030,Miguel Ferrera Rodrguez,M,35,Honduras,Taekwondo,NA
@@ -3679,7 +3679,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 35730,Nathan Flannery,M,23,New Zealand,Rowing,NA
 35759,Konstantinos Flegkas,M,28,Greece,Water Polo,NA
 35764,Sebastian Fleischer,M,22,Denmark,Sailing,NA
-35774,Kristna Fleissnerov,F,23,Czech Republic,Rowing,NA
+35774,Kristna Fleissnerov,F,23,Czechia,Rowing,NA
 35777,Colin Fleming,M,31,United Kingdom-1,Tennis,NA
 35780,Jessie Alexandra Fleming,F,18,Canada,Football,Bronze
 35806,Benjamin Karl Fletcher,M,24,United Kingdom,Judo,NA
@@ -3829,15 +3829,15 @@ ID,Name,Sex,Age,Team,Sport,Medal
 37214,Taimuraz Friev Naskidaeva,M,29,Spain,Wrestling,NA
 37225,Lotte Friis,F,28,Denmark,Swimming,NA
 37225,Lotte Friis,F,28,Denmark,Swimming,NA
-37238,Vendula Frintov,F,32,Czech Republic,Triathlon,NA
+37238,Vendula Frintov,F,32,Czechia,Triathlon,NA
 37242,Kristijan Fris,M,32,Serbia,Wrestling,NA
 37291,Adam Froese,M,24,Canada,Hockey,NA
 37308,Serhiy Anatoliyovych Frolov,M,24,Ukraine,Swimming,NA
 37338,"Christopher Clive ""Chris"" Froome",M,31,United Kingdom,Cycling,NA
 37338,"Christopher Clive ""Chris"" Froome",M,31,United Kingdom,Cycling,Bronze
 37360,Dan Froyliche,M,23,Israel,Sailing,NA
-37378,Petr Frydrych,M,28,Czech Republic,Athletics,NA
-37396,Fu Haifeng,M,32,China-1,Badminton,Gold
+37378,Petr Frydrych,M,28,Czechia,Athletics,NA
+37396,Fu Haifeng,M,32,China,Badminton,Gold
 37402,Fu Yuanhui,F,20,China,Swimming,Bronze
 37402,Fu Yuanhui,F,20,China,Swimming,NA
 37409,Florian Fuchs,M,24,Germany,Hockey,Bronze
@@ -3853,8 +3853,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 37489,Kenji Fujimitsu,M,30,Japan,Athletics,NA
 37490,Hiromasa Fujimori,M,24,Japan,Swimming,NA
 37517,Isamu Fujisawa,M,28,Japan,Athletics,NA
-37548,Martin Fuksa,M,23,Czech Republic,Canoeing,NA
-37548,Martin Fuksa,M,23,Czech Republic,Canoeing,NA
+37548,Martin Fuksa,M,23,Czechia,Canoeing,NA
+37548,Martin Fuksa,M,23,Czechia,Canoeing,NA
 37561,Ai Fukuhara,F,27,Japan,Table Tennis,NA
 37561,Ai Fukuhara,F,27,Japan,Table Tennis,Bronze
 37577,Kenki Fukuoka,M,23,Japan,Rugby Sevens,NA
@@ -4023,9 +4023,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 39227,Mete Gazoz,M,17,Turkey,Archery,NA
 39246,Ruth Marie Christelle Gbagbi,F,22,Cote d'Ivoire,Taekwondo,Bronze
 39248,Michael Patrick Gbinije,M,24,Nigeria,Basketball,NA
-39253,Luk Gdula,M,24,Czech Republic,Athletics,NA
+39253,Luk Gdula,M,24,Czechia,Athletics,NA
 39257,Ge Manqi,F,18,China,Athletics,NA
-39271,Vtzslav Gebas,M,32,Czech Republic,Canoeing,NA
+39271,Vtzslav Gebas,M,32,Czechia,Canoeing,NA
 39275,Houry A. Gebeshian,F,27,Armenia,Gymnastics,NA
 39275,Houry A. Gebeshian,F,27,Armenia,Gymnastics,NA
 39275,Houry A. Gebeshian,F,27,Armenia,Gymnastics,NA
@@ -4105,7 +4105,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 40104,"Spyridon ""Spyros"" Gianniotis",M,36,Greece,Swimming,Silver
 40117,Stefano Giantorno,M,24,Brazil,Rugby Sevens,NA
 40123,Willian Giaretton,M,25,Brazil,Rowing,NA
-40132,"Jacob Spiker ""Jake"" Gibb",M,40,United States of America-2,Beach Volleyball,NA
+40132,"Jacob Spiker ""Jake"" Gibb",M,40,United States of America,Beach Volleyball,NA
 40172,Jeffery Gibson,M,25,Bahamas,Athletics,NA
 40180,"Robert Michael ""Rob"" Gibson",M,30,Canada,Rowing,NA
 40203,ukasz Gierak,M,28,Poland,Handball,NA
@@ -4399,7 +4399,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 43060,Ursula Grobler,F,36,South Africa,Rowing,NA
 43081,Sarah Brooke Groff-True,F,34,United States of America,Triathlon,NA
 43095,"Hindrik Harmannus Arnoldus ""Henk"" Grol",M,31,Netherlands,Judo,NA
-43112,Anna-Lena Grnefeld,F,31,Germany-1,Tennis,NA
+43112,Anna-Lena Grnefeld,F,31,Germany,Tennis,NA
 43131,Angus Groom,M,24,United Kingdom,Rowing,NA
 43138,Cornelia Nycke Groot,F,28,Netherlands,Handball,NA
 43150,Marcus Gro,M,26,Germany,Canoeing,Gold
@@ -4656,8 +4656,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 45852,Louise Maria Hansson,F,19,Sweden,Swimming,NA
 45859,Sophie Elizabeth Hansson,F,18,Sweden,Swimming,NA
 45859,Sophie Elizabeth Hansson,F,18,Sweden,Swimming,NA
-45867,Kateina Hanuov-Nash,F,38,Czech Republic,Cycling,NA
-45874,Adla Hanzlkov,F,22,Czech Republic,Wrestling,NA
+45867,Kateina Hanuov-Nash,F,38,Czechia,Cycling,NA
+45874,Adla Hanzlkov,F,22,Czechia,Wrestling,NA
 45877,Hao Jialu,F,28,China,Fencing,Silver
 45909,Kiichi Harada,M,43,Japan,Equestrianism,NA
 45909,Kiichi Harada,M,43,Japan,Equestrianism,NA
@@ -4736,8 +4736,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 46666,Patrick Hausding,M,27,Germany,Diving,NA
 46679,Julia Hauser,F,22,Austria,Triathlon,NA
 46693,Romuald Hausser,M,28,Switzerland,Sailing,NA
-46710,Daniel Havel,M,24,Czech Republic,Canoeing,NA
-46710,Daniel Havel,M,24,Czech Republic,Canoeing,Bronze
+46710,Daniel Havel,M,24,Czechia,Canoeing,NA
+46710,Daniel Havel,M,24,Czechia,Canoeing,Bronze
 46762,Callum Hawkins,M,24,United Kingdom,Athletics,NA
 46764,Derek Hawkins,M,27,United Kingdom,Athletics,NA
 46804,Kenichi Hayakawa,M,30,Japan,Badminton,NA
@@ -4793,11 +4793,11 @@ ID,Name,Sex,Age,Team,Sport,Medal
 47310,Philip Marvin Heintz,M,25,Germany,Swimming,NA
 47325,Max Heinzer,M,28,Switzerland,Fencing,NA
 47325,Max Heinzer,M,28,Switzerland,Fencing,NA
-47358,Zuzana Hejnov,F,29,Czech Republic,Athletics,NA
-47379,Adam Sebastian Helcelet,M,24,Czech Republic,Athletics,NA
+47358,Zuzana Hejnov,F,29,Czechia,Athletics,NA
+47379,Adam Sebastian Helcelet,M,24,Czechia,Athletics,NA
 47384,Ryan Held,M,21,United States of America,Swimming,Gold
 47389,Mt Helebrandt,M,27,Hungary,Athletics,NA
-47392,Luk Heleic,M,20,Czech Republic,Rowing,NA
+47392,Luk Heleic,M,20,Czechia,Rowing,NA
 47491,Yousra Helmy,F,20,Egypt,Table Tennis,NA
 47509,Hem Thon Vitiny,F,22,Cambodia,Swimming,NA
 47525,Nina Hemmer,F,23,Germany,Wrestling,NA
@@ -4840,7 +4840,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 47899,Robert Hering,M,26,Germany,Athletics,NA
 47900,Sabrina Hering,F,24,Germany,Canoeing,Silver
 47940,Natalie Hermann,F,16,Germany,Rhythmic Gymnastics,NA
-47942,Barbora Hermannov,F,25,Czech Republic,Beach Volleyball,NA
+47942,Barbora Hermannov,F,25,Czechia,Beach Volleyball,NA
 47950,Rune Hermans,F,17,Belgium,Gymnastics,NA
 47950,Rune Hermans,F,17,Belgium,Gymnastics,NA
 47950,Rune Hermans,F,17,Belgium,Gymnastics,NA
@@ -4924,11 +4924,11 @@ ID,Name,Sex,Age,Team,Sport,Medal
 48869,"Michael ""Mike"" Hixon",M,22,United States of America,Diving,NA
 48869,"Michael ""Mike"" Hixon",M,22,United States of America,Diving,Silver
 48874,sds Hjlmsdttir,F,30,Iceland,Athletics,NA
-48902,Andrea Hlavkov,F,29,Czech Republic-2,Tennis,NA
+48902,Andrea Hlavkov,F,29,Czechia,Tennis,NA
 48904,Ihor Kostyantinovych Hlavan,M,25,Ukraine,Athletics,NA
 48904,Ihor Kostyantinovych Hlavan,M,25,Ukraine,Athletics,NA
 48935,Chad Ho,M,26,South Africa,Swimming,NA
-48937,Ho Chin-Ping,M,32,Chinese Taipei,Athletics,NA
+48937,Ho Chin-Ping,M,32,China,Athletics,NA
 48944,Kwan Kit Ho,M,19,Hong Kong,Table Tennis,NA
 48952,H Th L,F,25,Vietnam,Rowing,NA
 48955,Gabriel Ho-Garcia,M,23,Canada,Hockey,NA
@@ -4964,7 +4964,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 49539,Olha Anatolivna Holodna,F,24,Ukraine,Athletics,NA
 49581,"Maxwell Philip ""Max"" Holt",M,29,United States of America,Volleyball,Bronze
 49605,Tamila Hryhorivna Holub,F,17,Portugal,Swimming,NA
-49616,Jakub Holua,M,28,Czech Republic,Athletics,NA
+49616,Jakub Holua,M,28,Czechia,Athletics,NA
 49626,Raphael Marcel Holzdeppe,M,26,Germany,Athletics,NA
 49661,Daryl Homer,M,26,United States of America,Fencing,Silver
 49669,Amanmyrat Hommadow,M,27,Turkmenistan,Athletics,NA
@@ -5044,9 +5044,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 50411,Magorzata Houb,F,23,Poland,Athletics,NA
 50415,Jonas Hgh Christensen,M,35,Denmark,Sailing,NA
 50423,Jeppe Hjbjerg,M,21,Denmark,Football,NA
-50439,Lucie Hradeck,F,31,Czech Republic,Tennis,NA
-50439,Lucie Hradeck,F,31,Czech Republic,Tennis,Bronze
-50439,Lucie Hradeck,F,31,Czech Republic-2,Tennis,NA
+50439,Lucie Hradeck,F,31,Czechia,Tennis,NA
+50439,Lucie Hradeck,F,31,Czechia,Tennis,Bronze
+50439,Lucie Hradeck,F,31,Czechia,Tennis,NA
 50452,Martina Hranov-Daniov,F,33,Slovakia,Athletics,NA
 50467,Olena Serhivna Hrechykhina,F,25,Ukraine,Synchronized Swimming,NA
 50472,Mohamed Fuad Hrezi,M,24,Libya,Athletics,NA
@@ -5055,7 +5055,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 50478,Stefan Koychev Hristov,M,31,Bulgaria,Cycling,NA
 50479,Mimi Nikolova Hristova,F,23,Bulgaria,Wrestling,NA
 50482,Lucia Hrivnk Klocov,F,32,Slovakia,Athletics,NA
-50496,Michaela Hrub,F,18,Czech Republic,Athletics,NA
+50496,Michaela Hrub,F,18,Czechia,Athletics,NA
 50503,Amer Hrustanovic,M,28,Austria,Wrestling,NA
 50510,Vladyslav Volodymyrovych Hryko,M,19,Ukraine,Gymnastics,NA
 50510,Vladyslav Volodymyrovych Hryko,M,19,Ukraine,Gymnastics,NA
@@ -5067,10 +5067,10 @@ ID,Name,Sex,Age,Team,Sport,Medal
 50513,Inna Volodymyrivna Hryshchun,F,21,Ukraine,Canoeing,NA
 50515,Andriy Askoldovych Hryvko,M,32,Ukraine,Cycling,NA
 50515,Andriy Askoldovych Hryvko,M,32,Ukraine,Cycling,NA
-50517,Hsiang Chun-Hsien,M,22,Chinese Taipei,Athletics,NA
-50518,Hsiao Mei-Yu,F,31,Chinese Taipei,Cycling,NA
-50520,Hsieh Chien-Ho,F,28,Chinese Taipei,Athletics,NA
-50545,Hsu Shu-Ching,F,25,Chinese Taipei,Weightlifting,Gold
+50517,Hsiang Chun-Hsien,M,22,China,Athletics,NA
+50518,Hsiao Mei-Yu,F,31,China,Cycling,NA
+50520,Hsieh Chien-Ho,F,28,China,Athletics,NA
+50545,Hsu Shu-Ching,F,25,China,Weightlifting,Gold
 50552,Cbrayl Hsnov,M,26,Azerbaijan,Wrestling,Bronze
 50555,Htwe San Yu,F,29,Myanmar,Archery,NA
 50557,Hu Binyuan,M,38,China,Shooting,NA
@@ -5086,16 +5086,16 @@ ID,Name,Sex,Age,Team,Sport,Medal
 50594,Huang Changzhou,M,21,China,Athletics,NA
 50604,Huang Dongyan,F,22,China,Cycling,NA
 50611,Huang Hongpin,F,27,China,Basketball,NA
-50615,Huang Huai-Hsuan,F,19,Chinese Taipei,Taekwondo,NA
-50619,Huang I-Hua,F,32,Chinese Taipei,Table Tennis,NA
+50615,Huang Huai-Hsuan,F,19,China,Taekwondo,NA
+50619,Huang I-Hua,F,32,China,Table Tennis,NA
 50628,Huang Lizhu,F,28,China,Sailing,NA
-50644,Huang Shih-Feng,M,24,Chinese Taipei,Athletics,NA
+50644,Huang Shih-Feng,M,24,China,Athletics,NA
 50646,Huang Sijing,F,20,China,Basketball,NA
-50651,Huang Ting-Ying,F,26,Chinese Taipei,Cycling,NA
+50651,Huang Ting-Ying,F,26,China,Cycling,NA
 50653,Huang Wenyi,F,25,China,Rowing,Bronze
 50660,Huang Xuechen,F,26,China,Synchronized Swimming,Silver
 50660,Huang Xuechen,F,26,China,Synchronized Swimming,Silver
-50664,Huang Yi-Ting,F,26,Chinese Taipei,Rowing,NA
+50664,Huang Yi-Ting,F,26,China,Rowing,NA
 50693,Alexander Huber,M,31,Austria-1,Beach Volleyball,NA
 50735,tienne Hubert,M,28,France,Canoeing,NA
 50735,tienne Hubert,M,28,France,Canoeing,NA
@@ -5353,7 +5353,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 53298,Anna Jagaciak-Michalska,F,26,Poland,Athletics,NA
 53305,Evan Reese Jager,M,27,United States of America,Athletics,Silver
 53324,Jaak-Heinrich Jagor,M,26,Estonia,Athletics,NA
-53345,Libue Jahodov,F,24,Czech Republic,Shooting,NA
+53345,Libue Jahodov,F,24,Czechia,Shooting,NA
 53355,Thongchai Jaidee,M,46,Thailand,Golf,NA
 53361,"Orchatteri Puthiya Veetil ""O. P."" Jaisha",F,33,India,Athletics,NA
 53373,"Zsuzsanna ""Zsu"" Jakabos",F,27,Hungary,Swimming,NA
@@ -5382,10 +5382,10 @@ ID,Name,Sex,Age,Team,Sport,Medal
 53543,Adama Jammeh,M,23,Gambia,Athletics,NA
 53547,Andrei Jms,M,34,Estonia,Rowing,Bronze
 53567,Bla Janc,M,19,Slovenia,Handball,NA
-53568,Lubomr Janak,M,28,Czech Republic,Table Tennis,NA
+53568,Lubomr Janak,M,28,Czechia,Table Tennis,NA
 53572,Dominykas Janionis,M,23,Lithuania,Rowing,NA
 53588,Refiloe Jane,F,23,South Africa,Football,NA
-53589,Pavel Janeek,M,22,Czech Republic,Swimming,NA
+53589,Pavel Janeek,M,22,Czechia,Swimming,NA
 53599,Roberto Janet Durruty,M,29,Cuba,Athletics,NA
 53603,Luka Janei,M,20,Slovenia,Athletics,NA
 53614,Jang Geum-Young,F,36,South Korea,Shooting,NA
@@ -5438,7 +5438,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 54488,Jeon Ji-Hee,F,23,South Korea,Table Tennis,NA
 54499,Jeon Yeong-Eun,F,28,South Korea,Athletics,NA
 54503,Jeong Bo-Kyeong,F,25,South Korea,Judo,Silver
-54529,Jeong Gyeong-Eun,F,26,South Korea-1,Badminton,Bronze
+54529,Jeong Gyeong-Eun,F,26,South Korea,Badminton,Bronze
 54552,Jeong Ji-Geun,M,26,South Korea,Shooting,NA
 54556,Jeong Jin-Hwa,M,27,South Korea,Modern Pentathlon,NA
 54558,Jeong Jin-Seon,M,32,South Korea,Fencing,NA
@@ -5452,14 +5452,14 @@ ID,Name,Sex,Age,Team,Sport,Medal
 54631,Caridad Jerez Castellanos,F,25,Spain,Athletics,NA
 54645,John Jermyn,M,34,Ireland,Hockey,NA
 54665,Agnieszka Jerzyk,F,28,Poland,Triathlon,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
-54678,David Jessen,M,19,Czech Republic,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
+54678,David Jessen,M,19,Czechia,Gymnastics,NA
 54701,Olivera Jevti,F,39,Serbia,Athletics,NA
-54720,Jaromr Jeek,M,29,Czech Republic,Judo,NA
+54720,Jaromr Jeek,M,29,Czechia,Judo,NA
 54731,Kanak Jha,M,16,United States of America,Table Tennis,NA
 54731,Kanak Jha,M,16,United States of America,Table Tennis,NA
 54800,Jiang Yan,F,27,China,Rowing,NA
@@ -5498,7 +5498,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 55461,Steele Alexander Johnson,M,20,United States of America,Diving,NA
 55461,Steele Alexander Johnson,M,20,United States of America,Diving,Silver
 55463,Steve Johnson,M,26,United States of America,Tennis,NA
-55463,Steve Johnson,M,26,United States of America-2,Tennis,Bronze
+55463,Steve Johnson,M,26,United States of America,Tennis,Bronze
 55487,Katarina Mary Johnson-Thompson,F,23,United Kingdom,Athletics,NA
 55498,"Abigail Louise ""Abby"" Johnston",F,26,United States of America,Diving,NA
 55510,"Gordon ""Gordie"" Johnston",M,23,Canada,Hockey,NA
@@ -5588,7 +5588,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 56400,Katarzyna Iwona Jurkowska-Kowalska,F,24,Poland,Gymnastics,NA
 56400,Katarzyna Iwona Jurkowska-Kowalska,F,24,Poland,Gymnastics,NA
 56400,Katarzyna Iwona Jurkowska-Kowalska,F,24,Poland,Gymnastics,NA
-56409,Radek Juka,M,23,Czech Republic,Athletics,NA
+56409,Radek Juka,M,23,Czechia,Athletics,NA
 56411,Adas Jukeviius,M,27,Lithuania,Basketball,NA
 56438,Calvyn Justus,M,20,South Africa,Swimming,NA
 56439,Julian Justus,M,28,Germany,Shooting,NA
@@ -5674,8 +5674,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 57280,Gerd Kanter,M,37,Estonia,Athletics,NA
 57288,Piotr Kantor,M,24,Poland-2,Beach Volleyball,NA
 57297,Ben Kanute,M,23,United States of America,Triathlon,NA
-57303,Kao Hao-Wen,M,21,Chinese Taipei,Archery,NA
-57303,Kao Hao-Wen,M,21,Chinese Taipei,Archery,NA
+57303,Kao Hao-Wen,M,21,China,Archery,NA
+57303,Kao Hao-Wen,M,21,China,Archery,NA
 57315,Boglrka Kaps,F,23,Hungary,Swimming,NA
 57315,Boglrka Kaps,F,23,Hungary,Swimming,Bronze
 57315,Boglrka Kaps,F,23,Hungary,Swimming,NA
@@ -5720,7 +5720,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 57777,"Alexander ""Alex"" Karwoski",M,25,United States of America,Rowing,NA
 57788,Devery Karz,F,28,United States of America,Rowing,NA
 57816,Darya Sergeyevna Kasatkina,F,19,Russia,Tennis,NA
-57816,Darya Sergeyevna Kasatkina,F,19,Russia-1,Tennis,NA
+57816,Darya Sergeyevna Kasatkina,F,19,Russia,Tennis,NA
 57827,Mohamad Kasem,M,22,Syria,Judo,NA
 57833,Yannick Kser,M,24,Switzerland,Swimming,NA
 57833,Yannick Kser,M,24,Switzerland,Swimming,NA
@@ -5730,7 +5730,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 57864,Oleksiy Serhiyovych Kasianov,M,30,Ukraine,Athletics,NA
 57877,Orsolya Kas,F,27,Hungary,Water Polo,NA
 57878,Michelle Plourde Kasold,F,29,United States of America,Hockey,NA
-57885,Jon Kapar,M,24,Czech Republic,Canoeing,NA
+57885,Jon Kapar,M,24,Czechia,Canoeing,NA
 57894,Romy Kasper,F,28,Germany,Cycling,NA
 57900,Anna Kasprzak,F,26,Denmark,Equestrianism,NA
 57900,Anna Kasprzak,F,26,Denmark,Equestrianism,NA
@@ -5808,8 +5808,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 58440,Makoura Keita,F,21,Guinea,Athletics,NA
 58452,Tracy Keith-Matchitt,F,26,Cook Islands,Swimming,NA
 58473,Rosa Keleku Lukusa,F,21,Dem. Rep. Congo,Taekwondo,NA
-58479,Pavel Kelemen,M,25,Czech Republic,Cycling,NA
-58479,Pavel Kelemen,M,25,Czech Republic,Cycling,NA
+58479,Pavel Kelemen,M,25,Czechia,Cycling,NA
+58479,Pavel Kelemen,M,25,Czechia,Cycling,NA
 58485,smail Kele,M,28,Turkey,Shooting,NA
 58485,smail Kele,M,28,Turkey,Shooting,NA
 58557,Elise Kellond-Knight,F,25,Australia,Football,NA
@@ -5942,7 +5942,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 59849,Kim Dong-Seon,M,27,South Korea,Equestrianism,NA
 59853,Kim Dong-Yong,M,25,South Korea,Rowing,NA
 59859,Kim Eun-Hye,F,29,South Korea,Shooting,NA
-59878,Kim Gi-Jung,M,25,South Korea-2,Badminton,NA
+59878,Kim Gi-Jung,M,25,South Korea,Badminton,NA
 59889,Kim Gwan-Uk,M,26,South Korea,Wrestling,NA
 59927,Kim Ha-Na,F,26,South Korea,Badminton,NA
 59933,Kim Hae-Ran,F,32,South Korea,Volleyball,NA
@@ -5986,7 +5986,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 60168,Kim Myong-Hyok,M,25,North Korea,Weightlifting,NA
 60184,Kim Ok-Cheol,M,21,South Korea,Cycling,NA
 60191,Kim On-A,F,27,South Korea,Handball,NA
-60195,Kim Sa-Rang,M,26,South Korea-2,Badminton,NA
+60195,Kim Sa-Rang,M,26,South Korea,Badminton,NA
 60210,Kim Sei-Young,F,23,South Korea,Golf,NA
 60211,Kim Seo-Yeong,F,22,South Korea,Swimming,NA
 60232,Kim Seong-Min,M,29,South Korea,Judo,NA
@@ -6112,7 +6112,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 61326,Tom Klobunk,M,26,Slovakia,Swimming,NA
 61359,Konstanze Klosterhalfen,F,19,Germany,Athletics,NA
 61361,Lukas Klostermann,M,20,Germany,Football,Silver
-61368,Elika Kluinov,F,28,Czech Republic,Athletics,NA
+61368,Elika Kluinov,F,28,Czechia,Athletics,NA
 61374,Georgina Klug,F,32,Argentina,Beach Volleyball,NA
 61381,Roger Kluge,M,30,Germany,Cycling,NA
 61399,Iryna Volodymyrivna Klymets,F,21,Ukraine,Athletics,NA
@@ -6154,7 +6154,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 61806,Olga Aleksandrovna Kochneva,F,28,Russia,Fencing,Bronze
 61812,Madison Taylor Kocian,F,19,United States of America,Gymnastics,Gold
 61812,Madison Taylor Kocian,F,19,United States of America,Gymnastics,Silver
-61857,Barbora Kodedov,F,26,Czech Republic,Modern Pentathlon,NA
+61857,Barbora Kodedov,F,26,Czechia,Modern Pentathlon,NA
 61865,Angel Kodinov,M,18,Bulgaria,Canoeing,NA
 61865,Angel Kodinov,M,18,Bulgaria,Canoeing,NA
 61871,Aron Kipchumba Koech,M,26,Kenya,Athletics,NA
@@ -6208,8 +6208,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 62436,"Man Yi ""Yvette"" Kong",F,23,Hong Kong,Swimming,NA
 62436,"Man Yi ""Yvette"" Kong",F,23,Hong Kong,Swimming,NA
 62449,Josh Konieczny,M,25,United States of America,Rowing,NA
-62459,Leopold Knig,M,28,Czech Republic,Cycling,NA
-62459,Leopold Knig,M,28,Czech Republic,Cycling,NA
+62459,Leopold Knig,M,28,Czechia,Cycling,NA
+62459,Leopold Knig,M,28,Czechia,Cycling,NA
 62485,Ana Konjuh,F,18,Croatia,Tennis,NA
 62487,lie Konki,M,24,France,Boxing,NA
 62520,Klaudia Konopko,F,24,Poland,Athletics,NA
@@ -6220,7 +6220,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 62575,Pavlos Kontides,M,26,Cyprus,Sailing,NA
 62579,Zoi Kontogianni,F,18,Greece,Rhythmic Gymnastics,NA
 62582,Aikaterini-Maria Kontokhristopoulou,F,19,Greece,Fencing,NA
-62643,Ji Kop,M,34,Czech Republic,Rowing,NA
+62643,Ji Kop,M,34,Czechia,Rowing,NA
 62650,Blint Kopasz,M,19,Hungary,Canoeing,NA
 62660,Lotte Kopecky,F,20,Belgium,Cycling,NA
 62660,Lotte Kopecky,F,20,Belgium,Cycling,NA
@@ -6267,7 +6267,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 63020,Matias Koski,M,22,Finland,Swimming,NA
 63039,Anton Kosma,M,39,Slovenia,Athletics,NA
 63058,Artyom Vyacheslavovich Kosov,M,29,Russia,Rowing,NA
-63091,David Kosteleck,M,41,Czech Republic,Shooting,NA
+63091,David Kosteleck,M,41,Czechia,Shooting,NA
 63105,Maureen Koster,F,24,Netherlands,Athletics,NA
 63109,Olena Dmytrivna Kostevych,F,31,Ukraine,Shooting,NA
 63109,Olena Dmytrivna Kostevych,F,31,Ukraine,Shooting,NA
@@ -6289,7 +6289,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 63272,"Mikhail Alexandrovich ""Misha"" Koudinov",M,25,New Zealand,Gymnastics,NA
 63272,"Mikhail Alexandrovich ""Misha"" Koudinov",M,25,New Zealand,Gymnastics,NA
 63272,"Mikhail Alexandrovich ""Misha"" Koudinov",M,25,New Zealand,Gymnastics,NA
-63277,Petr Koukal,M,30,Czech Republic,Badminton,NA
+63277,Petr Koukal,M,30,Czechia,Badminton,NA
 63285,Henriette Nadege Koulla,F,23,Cameroon,Volleyball,NA
 63287,Dimitrios Koulouris,M,25,Greece,Swimming,NA
 63345,Igor Kovaevi,M,27,France,Water Polo,NA
@@ -6314,7 +6314,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 63543,Danuta Kozk,F,29,Hungary,Canoeing,Gold
 63543,Danuta Kozk,F,29,Hungary,Canoeing,Gold
 63543,Danuta Kozk,F,29,Hungary,Canoeing,Gold
-63558,Veronika Kozelsk-Fenclov,F,35,Czech Republic,Sailing,NA
+63558,Veronika Kozelsk-Fenclov,F,35,Czechia,Sailing,NA
 63560,Lucas Kozeniesky,M,21,United States of America,Shooting,NA
 63565,Bakhtiyar Gabitovich Kozhatayev,M,24,Kazakhstan,Cycling,NA
 63567,Anastasiya Mykolavna Kozhenkova,F,30,Ukraine,Rowing,NA
@@ -6337,7 +6337,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 63692,Yury Olegovich Krakovetsky,M,23,Kyrgyzstan,Judo,NA
 63747,Ivan Krapi,M,27,Croatia,Water Polo,Silver
 63749,Anastasiya Sergeyevna Krapivina,F,21,Russia,Swimming,NA
-63755,Vyacheslav Borisovich Krasilnikov,M,25,Russia-1,Beach Volleyball,NA
+63755,Vyacheslav Borisovich Krasilnikov,M,25,Russia,Beach Volleyball,NA
 63758,Mikhail Krasilov,M,26,Kazakhstan,Athletics,NA
 63772,Hanna Serhivna Krasnoshlyk,F,20,Ukraine,Diving,NA
 63778,Aleksandr Vladimirovich Krasnykh,M,21,Russia,Swimming,NA
@@ -6374,7 +6374,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 64249,Ranomi Kromowidjojo,F,25,Netherlands,Swimming,NA
 64249,Ranomi Kromowidjojo,F,25,Netherlands,Swimming,NA
 64291,Dmitry Kroyter,M,23,Israel,Athletics,NA
-64292,Luk Krplek,M,25,Czech Republic,Judo,Gold
+64292,Luk Krplek,M,25,Czechia,Judo,Gold
 64302,Sinphet Kruaithong,M,20,Thailand,Weightlifting,Bronze
 64320,Camilla Kruger,F,29,Zimbabwe,Equestrianism,NA
 64327,Hannah Krger,F,27,Germany,Hockey,Bronze
@@ -6403,14 +6403,14 @@ ID,Name,Sex,Age,Team,Sport,Medal
 64566,Martin Kuera,M,26,Slovakia,Athletics,NA
 64576,"Matthew Gregory ""Matt"" Kuchar",M,38,United States of America,Golf,Bronze
 64609,Anton Kumn,M,32,Slovakia,Athletics,NA
-64628,Kateina Kudjov,F,26,Czech Republic,Canoeing,NA
+64628,Kateina Kudjov,F,26,Czechia,Canoeing,NA
 64634,Anastasiya Valeryevna Kudinova,F,28,Kazakhstan,Athletics,NA
 64636,Denis Maksymilian Kudla,M,21,Germany,Wrestling,Bronze
 64637,Denis Kudla,M,23,United States of America,Tennis,NA
-64638,Jan Kudlika,M,28,Czech Republic,Athletics,NA
+64638,Jan Kudlika,M,28,Czechia,Athletics,NA
 64658,Yana Alekseyevna Kudryavtseva,F,18,Russia,Rhythmic Gymnastics,Silver
 64663,Micha Kuda,M,18,Poland,Canoeing,NA
-64674,Jan Kuf,M,25,Czech Republic,Modern Pentathlon,NA
+64674,Jan Kuf,M,25,Czechia,Modern Pentathlon,NA
 64676,Andreas Kuffner,M,29,Germany,Rowing,Silver
 64682,Attila Kugler,M,29,Hungary,Canoeing,NA
 64709,Julius Khn,M,23,Germany,Handball,Bronze
@@ -6429,7 +6429,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 64790,Rodrick Kuku Ndongala,M,30,Dem. Rep. Congo,Judo,NA
 64798,Denis Aleksandrovich Kulakov,M,33,Russia,Shooting,NA
 64803,Jasmin Klbs,F,24,Germany,Judo,NA
-64831,Jaroslav Kulhav,M,31,Czech Republic,Cycling,Silver
+64831,Jaroslav Kulhav,M,31,Czechia,Cycling,Silver
 64845,Serhiy Volodymyrovych Kulish,M,23,Ukraine,Shooting,Silver
 64845,Serhiy Volodymyrovych Kulish,M,23,Ukraine,Shooting,NA
 64845,Serhiy Volodymyrovych Kulish,M,23,Ukraine,Shooting,NA
@@ -6444,11 +6444,11 @@ ID,Name,Sex,Age,Team,Sport,Medal
 64918,Deepika Kumari,F,22,India,Archery,NA
 64923,Dimitar Angelov Kumchev,M,36,Bulgaria,Wrestling,NA
 64957,Semi Kunabuli Kunatani,M,25,Fiji,Rugby Sevens,Gold
-64976,"Yi-Ping ""Candie"" Kung",F,34,Chinese Taipei,Golf,NA
+64976,"Yi-Ping ""Candie"" Kung",F,34,China,Golf,NA
 65002,Sebastian Kuntschik,M,27,Austria,Shooting,NA
 65022,Lenchu Kunzang,F,24,Bhutan,Shooting,NA
 65026,Kahena Kunze,F,25,Brazil,Sailing,Gold
-65044,Kuo Hsing-Chun,F,22,Chinese Taipei,Weightlifting,Bronze
+65044,Kuo Hsing-Chun,F,22,China,Weightlifting,Bronze
 65052,Taru Kuoppa,F,32,Finland,Archery,NA
 65070,Martin Kupper,M,27,Estonia,Athletics,NA
 65097,Olim Kurbanov,M,18,Tajikistan,Swimming,NA
@@ -6481,12 +6481,12 @@ ID,Name,Sex,Age,Team,Sport,Medal
 65410,Yevgeny Vladimirovich Kuznetsov,M,26,Russia,Diving,NA
 65411,Polina Viktorovna Kuznetsova (Vyakhireva-),F,29,Russia,Handball,Gold
 65413,Svetlana Aleksandrovna Kuznetsova,F,31,Russia,Tennis,NA
-65413,Svetlana Aleksandrovna Kuznetsova,F,31,Russia-1,Tennis,NA
+65413,Svetlana Aleksandrovna Kuznetsova,F,31,Russia,Tennis,NA
 65424,Nataliya Yuryevna Kuzyutina,F,27,Russia,Judo,Bronze
 65444,Illia Olehovych Kvasha,M,28,Ukraine,Diving,NA
 65449,Matija Kvasina,M,34,Croatia,Cycling,NA
 65456,Andriy Vasylovych Kviatkovskiy,M,26,Ukraine,Wrestling,NA
-65461,Petra Kvitov,F,26,Czech Republic,Tennis,Bronze
+65461,Petra Kvitov,F,26,Czechia,Tennis,Bronze
 65470,Kwak Jung-Hye,F,29,South Korea,Shooting,NA
 65488,Ronald Chebolei Kwemoi,M,20,Kenya,Athletics,NA
 65491,Micha Kwiatkowski,M,26,Poland,Cycling,NA
@@ -6543,7 +6543,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 65943,Mouhcine Lahsaini,M,30,Morocco,Cycling,NA
 65943,Mouhcine Lahsaini,M,30,Morocco,Cycling,NA
 65953,Sarah Lahti,F,21,Sweden,Athletics,NA
-65964,Lai Chu-En,M,20,Chinese Taipei,Boxing,NA
+65964,Lai Chu-En,M,20,China,Boxing,NA
 65976,Francisca Dias Laia,F,22,Portugal,Canoeing,NA
 66006,Alexus Lucienne Laird,F,23,Seychelles,Swimming,NA
 66009,Nicole Laird,F,23,Australia-2,Beach Volleyball,NA
@@ -6641,7 +6641,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 67171,Niklas Laustsen,M,23,Denmark,Cycling,NA
 67183,Joffrey Lauvergne,M,24,France,Basketball,NA
 67222,Tessa Lavey,F,23,Australia,Basketball,NA
-67224,Karel Lavick,M,30,Czech Republic,Sailing,NA
+67224,Karel Lavick,M,30,Czechia,Sailing,NA
 67233,Renaud Lavillenie,M,29,France,Athletics,Silver
 67243,Claire Marie Anne Lavogez,F,22,France,Football,NA
 67293,"Olaseni Abdul-Jelili ""Shane"" Lawal",M,29,Nigeria,Basketball,NA
@@ -6656,8 +6656,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 67408,Ayaal Lazarev,M,30,Kyrgyzstan,Wrestling,NA
 67429,Julieta Constanza Lazcano Colodrero,F,27,Argentina,Volleyball,NA
 67441,Suzana Lazovi,F,24,Montenegro,Handball,NA
-67472,Le Chien-Ying,F,26,Chinese Taipei,Archery,NA
-67472,Le Chien-Ying,F,26,Chinese Taipei,Archery,Bronze
+67472,Le Chien-Ying,F,26,China,Archery,NA
+67472,Le Chien-Ying,F,26,China,Archery,Bronze
 67473,Le Huilin,F,27,China,Fencing,NA
 67488,Kilian Le Blouch,M,26,France,Judo,NA
 67496,Chad Guy Bertrand le Clos,M,24,South Africa,Swimming,Silver
@@ -6696,7 +6696,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 67746,"Kathleen Genevieve ""Katie"" Ledecky",F,19,United States of America,Swimming,Gold
 67800,Lee Chan-Dong,M,23,South Korea,Football,NA
 67805,Lee Chang-Min,M,22,South Korea,Football,NA
-67816,Lee Chih-Kai,M,20,Chinese Taipei,Gymnastics,NA
+67816,Lee Chih-Kai,M,20,China,Gymnastics,NA
 67818,Lee Chong Wei,M,33,Malaysia,Badminton,Silver
 67829,Lee Da-Seul,F,19,South Korea,Athletics,NA
 67831,Lee Dae-Hun,M,24,South Korea,Taekwondo,Bronze
@@ -6712,7 +6712,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 67867,Eva Lee,F,29,United States of America,Badminton,NA
 67923,Lee Ho Ching,F,23,Hong Kong,Table Tennis,NA
 67923,Lee Ho Ching,F,23,Hong Kong,Table Tennis,NA
-67936,Lee Hsuan-Yen,M,23,Chinese Taipei,Swimming,NA
+67936,Lee Hsuan-Yen,M,23,China,Swimming,NA
 67939,Lee Hui-Sol,F,26,South Korea,Weightlifting,NA
 67945,Lee Hye-Jin,F,24,South Korea,Cycling,NA
 67957,Lee Hyo-Hee,F,35,South Korea,Volleyball,NA
@@ -6736,12 +6736,12 @@ ID,Name,Sex,Age,Team,Sport,Medal
 68145,Lee Seung-Su,M,26,South Korea,Judo,NA
 68149,Lee Seung-Yun,M,21,South Korea,Archery,NA
 68149,Lee Seung-Yun,M,21,South Korea,Archery,Gold
-68151,Lee Sheng-Mu,M,29,Chinese Taipei,Badminton,NA
-68155,Lee So-Hee,F,22,South Korea-2,Badminton,NA
+68151,Lee Sheng-Mu,M,29,China,Badminton,NA
+68155,Lee So-Hee,F,22,South Korea,Badminton,NA
 68169,Lee Tae-Hun,M,30,South Korea,Sailing,NA
 68184,Lee Wai Sze,F,29,Hong Kong,Cycling,NA
 68184,Lee Wai Sze,F,29,Hong Kong,Cycling,NA
-68209,Lee Yong-Dae,M,27,South Korea-1,Badminton,NA
+68209,Lee Yong-Dae,M,27,South Korea,Badminton,NA
 68215,Lee Young-Sil,F,29,South Korea,Hockey,NA
 68217,Lee Yuen Yin,F,27,Hong Kong,Rowing,NA
 68222,Zoe Samantha Lee,F,30,United Kingdom,Rowing,Silver
@@ -6889,7 +6889,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 69717,Anders Lie Nielsen,M,25,Denmark,Swimming,NA
 69743,Tom Liebscher,M,23,Germany,Canoeing,NA
 69743,Tom Liebscher,M,23,Germany,Canoeing,Gold
-69751,Lien Chen-Ling,F,28,Chinese Taipei,Judo,NA
+69751,Lien Chen-Ling,F,28,China,Judo,NA
 69765,Lasma Liepa,F,28,Turkey,Canoeing,NA
 69765,Lasma Liepa,F,28,Turkey,Canoeing,NA
 69771,Julia Lier,F,24,Germany,Rowing,Gold
@@ -6932,13 +6932,13 @@ ID,Name,Sex,Age,Team,Sport,Medal
 69971,Gui Lin,F,22,Brazil,Table Tennis,NA
 69971,Gui Lin,F,22,Brazil,Table Tennis,NA
 69978,Lin Li,F,24,China,Volleyball,Gold
-69986,Lin Pei-Wun,F,16,Chinese Taipei,Swimming,NA
+69986,Lin Pei-Wun,F,16,China,Swimming,NA
 69987,Lin Po Heung,F,31,Hong Kong,Fencing,NA
-69994,Lin Shih-Chia,F,23,Chinese Taipei,Archery,NA
-69994,Lin Shih-Chia,F,23,Chinese Taipei,Archery,Bronze
-70001,Lin Wen-Tang,M,42,Chinese Taipei,Golf,NA
+69994,Lin Shih-Chia,F,23,China,Archery,NA
+69994,Lin Shih-Chia,F,23,China,Archery,Bronze
+70001,Lin Wen-Tang,M,42,China,Golf,NA
 70003,Lin Xiyu,F,20,China,Golf,NA
-70006,Lin Yi-Chun,F,35,Chinese Taipei,Shooting,NA
+70006,Lin Yi-Chun,F,35,China,Shooting,NA
 70009,Lin Yongqing,M,23,China,Swimming,NA
 70011,Lin Yue,M,25,China,Diving,Gold
 70030,Holly Lincoln-Smith,F,28,Australia,Water Polo,NA
@@ -6986,7 +6986,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 70637,Liu Shiying,F,22,China,Athletics,NA
 70644,Liu Tingting,F,26,China,Athletics,NA
 70646,Liu Wei,M,28,China,Boxing,NA
-70649,Liu Wei-Ting,M,21,Chinese Taipei,Taekwondo,NA
+70649,Liu Wei-Ting,M,21,China,Taekwondo,NA
 70654,Liu Xiang,F,19,China,Swimming,NA
 70665,Liu Xiaotong,F,26,China,Volleyball,Gold
 70677,Liu Yang,M,21,China,Gymnastics,Bronze
@@ -7075,7 +7075,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 71412,Lus Alfonso Lpez Menjivar,M,22,El Salvador,Athletics,NA
 71415,Lus Aurelio Lpez Fernndez,M,22,Honduras,Football,NA
 71419,Luis Fernando Lpez Erazo,M,37,Colombia,Athletics,NA
-71423,Marc Lpez i Tarrs,M,34,Spain-2,Tennis,Gold
+71423,Marc Lpez i Tarrs,M,34,Spain,Tennis,Gold
 71425,Mara Lpez Garca,F,26,Spain,Hockey,NA
 71429,Marta Lpez Herrero,F,26,Spain,Handball,NA
 71434,Miguel ngel Lpez Castro,M,19,Cuba,Volleyball,NA
@@ -7123,19 +7123,19 @@ ID,Name,Sex,Age,Team,Sport,Medal
 71891,Bartosz osiak,M,24,Poland-2,Beach Volleyball,NA
 71894,L Bin,M,21,China,Boxing,NA
 71909,Lu Huihui,F,27,China,Athletics,NA
-71918,"Xiao-Qing ""Teresa"" Lu",F,28,Chinese Taipei,Golf,NA
+71918,"Xiao-Qing ""Teresa"" Lu",F,28,China,Golf,NA
 71920,Lu Wen,F,26,China,Basketball,NA
 71921,Lu Xiaojun,M,32,China,Weightlifting,Silver
 71922,Lu Xiuzhi,F,22,China,Athletics,Bronze
 71924,L Yang,F,22,China,Rowing,NA
-71925,Lu Yen-Hsun,M,32,Chinese Taipei,Tennis,NA
+71925,Lu Yen-Hsun,M,32,China,Tennis,NA
 71926,Lu Ying,F,27,China,Swimming,NA
 71926,Lu Ying,F,27,China,Swimming,NA
 71937,Luan Guilherme de Jesus Vieira,M,23,Brazil,Football,Gold
 71941,Luan Garcia Teixeira,M,23,Brazil,Football,Gold
 71951,Christian Peter Stephensen Lbeck,M,25,Denmark,Sailing,NA
 71981,Ricardo Samuel Lucarelli Santos de Souza,M,24,Brazil,Volleyball,Gold
-72023,"Nicholas ""Nick"" Lucena",M,36,United States of America-1,Beach Volleyball,NA
+72023,"Nicholas ""Nick"" Lucena",M,36,United States of America,Beach Volleyball,NA
 72025,Jean-Michel Lucenay,M,38,France,Fencing,Gold
 72026,Emmanuel Lucenti,M,31,Argentina,Judo,NA
 72042,"Jurswailly ""Ailly"" Luciano",F,25,Netherlands,Handball,NA
@@ -7143,8 +7143,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 72060,Gina Lckenkemper,F,19,Germany,Athletics,NA
 72060,Gina Lckenkemper,F,19,Germany,Athletics,NA
 72072,Grace Luczak,F,27,United States of America,Rowing,NA
-72084,Kristina Ludkov-Gavnholt,F,27,Czech Republic,Badminton,NA
-72103,Laura Ludwig,F,30,Germany-1,Beach Volleyball,Gold
+72084,Kristina Ludkov-Gavnholt,F,27,Czechia,Badminton,NA
+72103,Laura Ludwig,F,30,Germany,Beach Volleyball,Gold
 72126,Yasmany Daniel Lugo Cabrera,M,26,Cuba,Wrestling,Silver
 72127,Augustine Lugonzo,M,24,Kenya,Rugby Sevens,NA
 72139,Leila Luik,F,30,Estonia,Athletics,NA
@@ -7168,7 +7168,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 72396,Luo Xiaoling,F,27,China,Cycling,NA
 72399,Luo Ying,F,25,China-2,Badminton,NA
 72401,Luo Yu,F,25,China-2,Badminton,NA
-72425,Daniele Lupo,M,25,Italy-1,Beach Volleyball,Silver
+72425,Daniele Lupo,M,25,Italy,Beach Volleyball,Silver
 72432,Nataliya Oleksivna Lupu,F,28,Ukraine,Athletics,NA
 72475,Pascal Lussier,M,24,Canada,Rowing,NA
 72486,Hrafnhildur Luthersdttir,F,25,Iceland,Swimming,NA
@@ -7179,7 +7179,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 72579,Nary Ly,F,44,Cambodia,Athletics,NA
 72584,Aleksandr Petrovich Lyakhovich,M,27,Belarus,Athletics,NA
 72586,Vadim Nikolayevich Lyalin,M,33,Belarus,Rowing,NA
-72588,Nikita Andreyevich Lyamin,M,30,Russia-2,Beach Volleyball,NA
+72588,Nikita Andreyevich Lyamin,M,30,Russia,Beach Volleyball,NA
 72591,Kirill Igorevich Lyapunov,M,30,Russia,Canoeing,NA
 72606,Karina Lykhvar,F,17,Israel,Rhythmic Gymnastics,NA
 72625,Finn Lynch,M,20,Ireland,Sailing,NA
@@ -7306,7 +7306,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 73779,Amel Majri,F,23,France,Football,NA
 73800,Iakob Makarashvili,M,30,Georgia,Wrestling,NA
 73822,Yekaterina Valeryevna Makarova,F,28,Russia,Tennis,NA
-73822,Yekaterina Valeryevna Makarova,F,28,Russia-2,Tennis,Gold
+73822,Yekaterina Valeryevna Makarova,F,28,Russia,Tennis,Gold
 73835,Meri Kristiina Mkel,F,23,Finland,Athletics,NA
 73842,Satu Mkel-Nummela,F,45,Finland,Shooting,NA
 73847,Mammello Makhabane,F,28,South Africa,Football,NA
@@ -7326,7 +7326,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 73936,Saidi Juma Makula,M,22,Tanzania,Athletics,NA
 73939,Isaac Makwala,M,29,Botswana,Athletics,NA
 73939,Isaac Makwala,M,29,Botswana,Athletics,NA
-73945,Romana Malov,F,29,Czech Republic,Athletics,NA
+73945,Romana Malov,F,29,Czechia,Athletics,NA
 73952,Hedaya Ahmad Malak Wahba,F,23,Egypt,Taekwondo,Bronze
 73963,Meli Malani,M,19,Fiji,Swimming,NA
 73977,Elas Javier Malav Burgos ,M,26,Venezuela,Archery,NA
@@ -7552,7 +7552,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 76110,Celestine Masinde Navalayo,F,29,Kenya,Rugby Sevens,NA
 76112,Chiara Masini Luccetti,F,23,Italy,Swimming,NA
 76120,Michael John Maskell,M,49,Barbados,Shooting,NA
-76125,Pavel Maslk,M,25,Czech Republic,Athletics,NA
+76125,Pavel Maslk,M,25,Czechia,Athletics,NA
 76132,Vladimir Anatolyevich Maslennikov,M,21,Russia,Shooting,Bronze
 76136,Darya Maslova,F,21,Kyrgyzstan,Athletics,NA
 76167,"Michael Robert Christian ""Mike"" Mason",M,29,Canada,Athletics,NA
@@ -7581,7 +7581,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 76331,Emmanuel Matadi,M,25,Liberia,Athletics,NA
 76337,Bernardin Ledoux Kingue Matam,M,26,France,Weightlifting,NA
 76343,Risto Mtas,M,32,Estonia,Athletics,NA
-76375,Hana Matelov,F,26,Czech Republic,Table Tennis,NA
+76375,Hana Matelov,F,26,Czechia,Table Tennis,NA
 76378,Wander Mateo Ramrez,M,26,Dominican Rep.,Judo,NA
 76381,Zeyad Mater,M,24,Yemen,Judo,NA
 76388,Robert Bogumi Mateusiak,M,40,Poland,Badminton,NA
@@ -7618,8 +7618,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 76595,Daisuke Matsunaga,M,21,Japan,Athletics,NA
 76623,Yuki Matsushita,M,24,Japan,Athletics,NA
 76625,Misaki Matsutomo,F,24,Japan,Badminton,Gold
-76644,Bethanie Lynn Mattek-Sands,F,31,United States of America-2,Tennis,Gold
-76644,Bethanie Lynn Mattek-Sands,F,31,United States of America-2,Tennis,NA
+76644,Bethanie Lynn Mattek-Sands,F,31,United States of America,Tennis,Gold
+76644,Bethanie Lynn Mattek-Sands,F,31,United States of America,Tennis,NA
 76663,Catriona Isobel Matthew (Lambert-),F,46,United Kingdom,Golf,NA
 76673,Julian Francis Matthews,M,28,New Zealand,Athletics,NA
 76682,Peter Matthews,M,26,Jamaica,Athletics,Silver
@@ -7645,8 +7645,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 77045,Andrea Mayr,F,36,Austria,Athletics,NA
 77059,Ida Mayrin,F,18,Israel,Rhythmic Gymnastics,NA
 77102,Sarah Myriam Mazouz,F,29,Gabon,Judo,NA
-77123,Nikola Mazurov,F,21,Czech Republic,Shooting,NA
-77123,Nikola Mazurov,F,21,Czech Republic,Shooting,NA
+77123,Nikola Mazurov,F,21,Czechia,Shooting,NA
+77123,Nikola Mazurov,F,21,Czechia,Shooting,NA
 77127,Olga Sergeyevna Mazuryonok,F,27,Belarus,Athletics,NA
 77137,Annamaria Mazzetti,F,27,Italy,Triathlon,NA
 77138,Riccardo Mazzetti,M,32,Italy,Shooting,NA
@@ -7746,11 +7746,11 @@ ID,Name,Sex,Age,Team,Sport,Medal
 78037,Etiene Pires de Medeiros,F,25,Brazil,Swimming,NA
 78037,Etiene Pires de Medeiros,F,25,Brazil,Swimming,NA
 78053,Paula Medn Lpez,F,32,Spain,Rugby Sevens,NA
-78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,34,Spain-2,Tennis,NA
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,34,Spain,Tennis,NA
 78070,Khaterinne Paola Medina Rodrguez,F,23,Colombia,Rugby Sevens,NA
 78119,Molly Meech,F,23,New Zealand,Sailing,Silver
 78120,Sam Meech,M,25,New Zealand,Sailing,Bronze
-78140,Robert Meeuwsen,M,28,Netherlands-1,Beach Volleyball,Bronze
+78140,Robert Meeuwsen,M,28,Netherlands,Beach Volleyball,Bronze
 78147,Nasreddine Megdich,M,24,Qatar,Handball,NA
 78173,Mmmdli Mehdiyev,M,23,Azerbaijan,Judo,NA
 78176,Abdel Aziz Mehelba,M,27,Egypt,Shooting,NA
@@ -7778,7 +7778,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 78401,Martn Andrs Melconian lvez,M,26,Uruguay,Swimming,NA
 78423,Osniel Lzaro Melgarejo Hernndez,M,18,Cuba,Volleyball,NA
 78431,Alberto Ezequiel Melin,M,26,Argentina,Boxing,NA
-78432,Luk Melich,M,35,Czech Republic,Athletics,NA
+78432,Luk Melich,M,35,Czechia,Athletics,NA
 78441,Bektemir Ruzmatzhonovich Melikuziyev,M,20,Uzbekistan,Boxing,Silver
 78451,Karin Melis (Mey-),F,33,Turkey,Athletics,NA
 78491,Oussama Mellouli,M,32,Tunisia,Swimming,NA
@@ -7824,7 +7824,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 78776,Jenny Mensing,F,30,Germany,Swimming,NA
 78776,Jenny Mensing,F,30,Germany,Swimming,NA
 78787,milie Menuet,F,24,France,Athletics,NA
-78800,Madelein Meppelink,F,26,Netherlands-1,Beach Volleyball,NA
+78800,Madelein Meppelink,F,26,Netherlands,Beach Volleyball,NA
 78801,Marcus John Charles Mepstead,M,26,United Kingdom,Fencing,NA
 78802,Jure Meqli,M,31,Azerbaijan,Canoeing,NA
 78826,Scarleth Elizabeth Mercado Lpez,F,19,Nicaragua,Weightlifting,NA
@@ -7885,8 +7885,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 79427,Stacey Michelsen,F,25,New Zealand,Hockey,NA
 79438,Githa Michiels,F,33,Belgium,Cycling,NA
 79447,Maria Lynn Michta-Coffey,F,30,United States of America,Athletics,NA
-79454,Jan Micka,M,21,Czech Republic,Swimming,NA
-79454,Jan Micka,M,21,Czech Republic,Swimming,NA
+79454,Jan Micka,M,21,Czechia,Swimming,NA
+79454,Jan Micka,M,21,Czechia,Swimming,NA
 79460,"Kimberley ""Kim"" Mickle",F,31,Australia,Athletics,NA
 79470,Augusto Midana,M,32,Guinea Bissau,Wrestling,NA
 79477,Barry John Middleton,M,32,United Kingdom,Hockey,NA
@@ -8174,9 +8174,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 81781,Ignacio Alfonso Morales Puentes,M,20,Chile,Taekwondo,NA
 81794,Lynda Windy Morales,F,28,Puerto Rico,Volleyball,NA
 81804,Sebastin Morales Mendoza,M,21,Colombia,Diving,NA
-81841,Martina Moravkov,F,27,Czech Republic,Swimming,NA
-81841,Martina Moravkov,F,27,Czech Republic,Swimming,NA
-81841,Martina Moravkov,F,27,Czech Republic,Swimming,NA
+81841,Martina Moravkov,F,27,Czechia,Swimming,NA
+81841,Martina Moravkov,F,27,Czechia,Swimming,NA
+81841,Martina Moravkov,F,27,Czechia,Swimming,NA
 81907,Antnia Moreira De Fatima,F,34,Angola,Judo,NA
 81910,Dolores Moreira Fraschini,F,17,Uruguay,Sailing,NA
 81918,Sara Isabel Fonseca Moreira,F,30,Portugal,Athletics,NA
@@ -8257,7 +8257,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 82859,Beslan Zaudinovich Mudranov,M,30,Russia,Judo,Gold
 82865,Felice Mueller,F,26,United States of America,Rowing,NA
 82895,Garbie Muguruza Blanco,F,22,Spain,Tennis,NA
-82895,Garbie Muguruza Blanco,F,22,Spain-1,Tennis,NA
+82895,Garbie Muguruza Blanco,F,22,Spain,Tennis,NA
 82897,Hasbi Muhamad,M,24,Indonesia,Weightlifting,NA
 82900,Dalilah Muhammad,F,26,United States of America,Athletics,Gold
 82901,Ibtihaj Muhammad,F,30,United States of America,Fencing,NA
@@ -8392,7 +8392,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 83983,Heiki Nabi,M,31,Estonia,Wrestling,NA
 83991,Dmitry Sergeyevich Nabokov,M,20,Belarus,Athletics,NA
 84006,Rafael Nadal Parera,M,30,Spain,Tennis,NA
-84006,Rafael Nadal Parera,M,30,Spain-2,Tennis,Gold
+84006,Rafael Nadal Parera,M,30,Spain,Tennis,Gold
 84011,Revazi Nadareishvili,M,25,Georgia,Wrestling,NA
 84014,"Alexander Michael ""Alex"" Naddour",M,25,United States of America,Gymnastics,NA
 84014,"Alexander Michael ""Alex"" Naddour",M,25,United States of America,Gymnastics,NA
@@ -8486,7 +8486,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 84679,Illie Daniel Natea,M,24,Romania,Judo,NA
 84689,Tyla Nathan-Wong,F,22,New Zealand,Rugby Sevens,Silver
 84693,Saad Natiq Naji,M,22,Iraq,Football,NA
-84700,Lilyana Natsir,F,30,Indonesia-1,Badminton,Gold
+84700,Lilyana Natsir,F,30,Indonesia,Badminton,Gold
 84721,Josateki Naulu,M,32,Fiji,Judo,NA
 84737,Darya Sergeyevna Naumova,F,20,Belarus,Weightlifting,Silver
 84739,Naung Ye Tun,M,33,Myanmar,Shooting,NA
@@ -8545,9 +8545,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 85301,Vilma Pegado Nenganga,F,19,Angola,Handball,NA
 85313,Neo Jie Shi,F,31,Singapore,Athletics,NA
 85314,Sotiria Neofytou,F,18,Cyprus,Swimming,NA
-85315,Filip Nepejchal,M,17,Czech Republic,Shooting,NA
-85315,Filip Nepejchal,M,17,Czech Republic,Shooting,NA
-85315,Filip Nepejchal,M,17,Czech Republic,Shooting,NA
+85315,Filip Nepejchal,M,17,Czechia,Shooting,NA
+85315,Filip Nepejchal,M,17,Czechia,Shooting,NA
+85315,Filip Nepejchal,M,17,Czechia,Shooting,NA
 85356,Rudo Neshamba,F,24,Zimbabwe,Football,NA
 85360,Mauro Nespoli,M,28,Italy,Archery,NA
 85360,Mauro Nespoli,M,28,Italy,Archery,NA
@@ -8610,7 +8610,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 85834,"Michael Sean James ""Mike"" Nicholson",M,42,Zimbabwe,Shooting,NA
 85864,Rachel Nicol,F,23,Canada,Swimming,NA
 85864,Rachel Nicol,F,23,Canada,Swimming,NA
-85871,Paolo Nicolai,M,27,Italy-1,Beach Volleyball,Silver
+85871,Paolo Nicolai,M,27,Italy,Beach Volleyball,Silver
 85876,Astier Nicolas,M,27,France,Equestrianism,Silver
 85876,Astier Nicolas,M,27,France,Equestrianism,Gold
 85904,Monica Niculescu,F,28,Romania,Tennis,NA
@@ -8963,7 +8963,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 89525,Ariana Gabriela Orrego Martnez,F,17,Peru,Gymnastics,NA
 89525,Ariana Gabriela Orrego Martnez,F,17,Peru,Gymnastics,NA
 89527,Alessia Orro,F,18,Italy,Volleyball,NA
-89528,Ji Orsg,M,27,Czech Republic,Weightlifting,NA
+89528,Ji Orsg,M,27,Czechia,Weightlifting,NA
 89532,Marco Orsi,M,25,Italy,Swimming,NA
 89541,Lus Alberto Orta Milln,M,27,Venezuela,Athletics,NA
 89542,Alejandra Ortega Sols,F,22,Mexico,Athletics,NA
@@ -9104,8 +9104,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 90888,Diego Armando Palomeque Echevarra,M,22,Colombia,Athletics,NA
 90904,Airin Palyt,F,24,Lithuania,Athletics,NA
 90906,Gregorio Paltrinieri,M,21,Italy,Swimming,Gold
-90934,"Cheng-Tsung ""C. T."" Pan",M,24,Chinese Taipei,Golf,NA
-90935,Pan Chien-Hung,M,27,Chinese Taipei,Weightlifting,NA
+90934,"Cheng-Tsung ""C. T."" Pan",M,24,China,Golf,NA
+90935,Pan Chien-Hung,M,27,China,Weightlifting,NA
 90936,Pan Feihong,F,27,China,Rowing,Bronze
 90941,Pan Qiang,M,31,China,Shooting,NA
 90963,Ion Iulian Panait,M,35,Romania,Wrestling,NA
@@ -9176,7 +9176,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 91686,Lee Parkhill,M,27,Canada,Sailing,NA
 91739,Carlos Eduardo Ramadan Paro,M,37,Brazil,Equestrianism,NA
 91739,Carlos Eduardo Ramadan Paro,M,37,Brazil,Equestrianism,NA
-91758,Arantxa Parra Santonja,F,33,Spain-2,Tennis,NA
+91758,Arantxa Parra Santonja,F,33,Spain,Tennis,NA
 91769,Jessica Parratto,F,22,United States of America,Diving,NA
 91769,Jessica Parratto,F,22,United States of America,Diving,NA
 91785,Shannon Parry,F,26,Australia,Rugby Sevens,Gold
@@ -9215,7 +9215,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 92089,Aleksandra Vyacheslavovna Patskevich,F,27,Russia,Synchronized Swimming,Gold
 92093,dm Pattantys,M,37,Hungary,Table Tennis,NA
 92096,Francesca Pattaro,F,21,Italy,Cycling,NA
-92105,Casey Patterson,M,36,United States of America-2,Beach Volleyball,NA
+92105,Casey Patterson,M,36,United States of America,Beach Volleyball,NA
 92107,Eleanor Patterson,F,20,Australia,Athletics,NA
 92120,"Richard John Edward ""Richie"" Patterson",M,33,New Zealand,Weightlifting,NA
 92122,Ryan Patterson,M,22,South Africa,Gymnastics,NA
@@ -9263,7 +9263,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 92529,Adam George Peaty,M,21,United Kingdom,Swimming,Gold
 92529,Adam George Peaty,M,21,United Kingdom,Swimming,Silver
 92531,Jacob Pebley,M,22,United States of America,Swimming,NA
-92552,Jana Pechanov,F,35,Czech Republic,Swimming,NA
+92552,Jana Pechanov,F,35,Czechia,Swimming,NA
 92554,Matthieu Patrick Franois Peche,M,28,France,Canoeing,Bronze
 92603,Anders stre Pedersen,M,25,Norway,Sailing,NA
 92618,Christinna Pedersen,F,30,Denmark,Badminton,NA
@@ -9302,7 +9302,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 93008,Peng Fei,M,24,China,Wrestling,NA
 93009,Peng Lin,F,21,China,Water Polo,NA
 93011,Peng Shuai,F,30,China,Tennis,NA
-93011,Peng Shuai,F,30,China-1,Tennis,NA
+93011,Peng Shuai,F,30,China,Tennis,NA
 93013,Peng Yang,F,24,China,Hockey,NA
 93018,Istvn Pni,M,19,Hungary,Shooting,NA
 93018,Istvn Pni,M,19,Hungary,Shooting,NA
@@ -9405,7 +9405,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 94024,Evaldas Petrauskas,M,24,Lithuania,Boxing,NA
 94034,Tatyana Olegovna Petrenya,F,34,Belarus,Trampolining,NA
 94043,Geno Petriashvili,M,22,Georgia,Wrestling,Bronze
-94064,Pavel Petikov,M,30,Czech Republic,Judo,NA
+94064,Pavel Petikov,M,30,Czechia,Judo,NA
 94066,Mihaela Petril,F,25,Romania,Rowing,Bronze
 94079,Pier Paolo Petroni,M,29,Italy,Modern Pentathlon,NA
 94093,Ioannis Petrou,M,19,Greece,Rowing,NA
@@ -9567,7 +9567,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 95616,Arleta Podolak,F,22,Poland,Judo,NA
 95624,Irina Dmitriyevna Podoynikova,F,28,Kazakhstan,Canoeing,NA
 95624,Irina Dmitriyevna Podoynikova,F,28,Kazakhstan,Canoeing,NA
-95627,Jakub Podrazil,M,24,Czech Republic,Rowing,NA
+95627,Jakub Podrazil,M,24,Czechia,Rowing,NA
 95631,Tomas Martins Podstawski,M,21,Portugal,Football,NA
 95639,"Wouter ""Wout"" Poels",M,28,Netherlands,Cycling,NA
 95653,Giorgio Poggi,M,34,Italy,Sailing,NA
@@ -9729,7 +9729,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 97152,Yekaterina Valeryevna Prokofyeva,F,25,Russia,Water Polo,Bronze
 97153,Yelena Gennadyevna Prokofyeva,F,22,Russia,Synchronized Swimming,Gold
 97162,Yuliya Anatolivna Prokopchuk,F,29,Ukraine,Diving,NA
-97163,Dmitrij Prokopcov,M,36,Czech Republic,Table Tennis,NA
+97163,Dmitrij Prokopcov,M,36,Czechia,Table Tennis,NA
 97175,Nadiya Ivanivna Prokopuk-Borovska,F,35,Ukraine,Athletics,NA
 97182,Grischa Prmel,M,21,Germany,Football,Silver
 97198,Kristina Pronzhenko,F,27,Tajikistan,Athletics,NA
@@ -9739,7 +9739,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 97242,Marie Prouvensier,F,22,France,Handball,Silver
 97249,Briana Provancha,F,27,United States of America,Sailing,NA
 97256,"Benjamin Errol ""Ben"" Provisor",M,26,United States of America,Wrestling,NA
-97262,Ji Prskavec,M,23,Czech Republic,Canoeing,Bronze
+97262,Ji Prskavec,M,23,Czechia,Canoeing,Bronze
 97264,Tanyaporn Prucksakorn,F,26,Thailand,Shooting,NA
 97264,Tanyaporn Prucksakorn,F,26,Thailand,Shooting,NA
 97268,Mariusz Prudel,M,30,Poland-1,Beach Volleyball,NA
@@ -9750,7 +9750,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 97325,Mateusz Przybylko,M,24,Germany,Athletics,NA
 97328,ukasz Przybytek,M,27,Poland,Sailing,NA
 97338,Evangelia Psarra,F,42,Greece,Archery,NA
-97361,Jiina Ptnkov (-Svobodov-),F,30,Czech Republic,Athletics,NA
+97361,Jiina Ptnkov (-Svobodov-),F,30,Czechia,Athletics,NA
 97365,Pu Qifeng,M,30,China,Shooting,NA
 97399,Marta Puda,F,25,Poland,Fencing,NA
 97413,Adrian Andrs Puentes Prez,M,28,Cuba,Archery,NA
@@ -9858,7 +9858,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 98155,Ihor Vitaliyovych Radivilov,M,23,Ukraine,Gymnastics,NA
 98155,Ihor Vitaliyovych Radivilov,M,23,Ukraine,Gymnastics,NA
 98178,Tamara Radoaj,F,28,Serbia,Basketball,Bronze
-98184,Jaroslav Rado,M,29,Czech Republic,Canoeing,NA
+98184,Jaroslav Rado,M,29,Czechia,Canoeing,NA
 98191,Dariusz Radosz,M,29,Poland,Rowing,NA
 98197,Aleksandar Radovi,M,29,Montenegro,Water Polo,NA
 98219,Marius Radu,M,24,Romania,Swimming,NA
@@ -9899,8 +9899,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 98535,Anthonny Sitraka Ralefy,M,21,Madagascar,Swimming,NA
 98540,Glencora Ralph,F,27,Australia,Water Polo,NA
 98548,Kheta Ram,M,29,India,Athletics,NA
-98552,Rajeev Ram,M,32,United States of America-1,Tennis,Silver
-98552,Rajeev Ram,M,32,United States of America-1,Tennis,NA
+98552,Rajeev Ram,M,32,United States of America,Tennis,Silver
+98552,Rajeev Ram,M,32,United States of America,Tennis,NA
 98556,Urata Rama,F,29,Kosovo,Shooting,NA
 98558,Raghunath Vokkaliga Ramachandra,M,27,India,Hockey,NA
 98565,Mohamed Ibrahim Ramadan,M,32,Egypt,Handball,NA
@@ -10308,10 +10308,10 @@ ID,Name,Sex,Age,Team,Sport,Medal
 102566,Shane Rose,M,43,Australia,Equestrianism,NA
 102566,Shane Rose,M,43,Australia,Equestrianism,Bronze
 102652,Eva Rsken,F,32,Germany,Shooting,NA
-102669,Luk Rosol,M,31,Czech Republic,Tennis,NA
-102669,Luk Rosol,M,31,Czech Republic,Tennis,NA
+102669,Luk Rosol,M,31,Czechia,Tennis,NA
+102669,Luk Rosol,M,31,Czechia,Tennis,NA
 102674,Rafa Rosolski,M,25,Poland,Canoeing,NA
-102679,April Elizabeth Ross,F,34,United States of America-1,Beach Volleyball,Bronze
+102679,April Elizabeth Ross,F,34,United States of America,Beach Volleyball,Bronze
 102720,Thibault Rossard,M,22,France,Volleyball,NA
 102732,Matthieu Rosset,M,26,France,Diving,NA
 102734,Gabriele Rossetti,M,21,Italy,Shooting,Gold
@@ -10419,7 +10419,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 103909,Ryu Han-Su,M,28,South Korea,Wrestling,NA
 103914,Ryu Seung-Woo,M,22,South Korea,Football,NA
 103927,"Elizaveta Vladimirova ""Lisa"" Ryzih",F,27,Germany,Athletics,NA
-103935,Andr Rezende S,M,39,Brazil-1,Tennis,NA
+103935,Andr Rezende S,M,39,Brazil,Tennis,NA
 103941,Ahmed Ahmed Muhammad Saad,M,29,Egypt,Weightlifting,NA
 103942,Ahmed Mohamed Ibrahim Saad,M,27,Egypt,Wrestling,NA
 103943,Atef Saad,M,28,Tunisia,Athletics,NA
@@ -10447,15 +10447,15 @@ ID,Name,Sex,Age,Team,Sport,Medal
 104168,Kateryna Serhivna Sadurska,F,24,Ukraine,Synchronized Swimming,NA
 104176,Alia Saeed Mohammed,F,22,United Arab Emirates,Athletics,NA
 104194,Jaruwat Saensuk,M,20,Thailand,Rowing,NA
-104216,Lucie afov,F,29,Czech Republic,Tennis,NA
-104216,Lucie afov,F,29,Czech Republic-1,Tennis,Bronze
+104216,Lucie afov,F,29,Czechia,Tennis,NA
+104216,Lucie afov,F,29,Czechia,Tennis,Bronze
 104218,Davit Safaryan,M,27,Armenia,Wrestling,NA
 104222,zzet Safer,M,26,Turkey,Athletics,NA
 104227,Timur Marselevich Safin,M,23,Russia,Fencing,Bronze
 104227,Timur Marselevich Safin,M,23,Russia,Fencing,Gold
 104230,Dewi Safitri,F,23,Indonesia,Weightlifting,NA
 104231,Sean Nana A. K. Safo-Antwi,M,25,Ghana,Athletics,NA
-104239,Kateina afrnkov,F,27,Czech Republic,Athletics,NA
+104239,Kateina afrnkov,F,27,Czechia,Athletics,NA
 104252,Peter Sagan,M,26,Slovakia,Cycling,NA
 104257,Clarisa Sagarda,F,27,Argentina,Volleyball,NA
 104262,Dylan Michael Sage,M,24,South Africa,Rugby Sevens,Bronze
@@ -10687,7 +10687,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 106485,Haline Leme Scatrut,F,23,Brazil,Rugby Sevens,NA
 106488,Fernando Augusto Dias Scavasin,M,31,Brazil,Fencing,NA
 106490,Milo epanovi,M,33,Montenegro,Water Polo,NA
-106494,Denisa erbova-Rosolov,F,29,Czech Republic,Athletics,NA
+106494,Denisa erbova-Rosolov,F,29,Czechia,Athletics,NA
 106515,"Samuel ""Sam"" Schachter",M,26,Canada-2,Beach Volleyball,NA
 106534,Martin Michael Schaefer,M,26,Brazil,Rugby Sevens,NA
 106542,Carolin Schfer,F,24,Germany,Athletics,NA
@@ -10724,7 +10724,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 107045,Matthias Schmid,M,35,Austria,Sailing,NA
 107047,Michael Schmid,M,28,Switzerland,Rowing,NA
 107069,Lisa Schmidla,F,25,Germany,Rowing,Gold
-107078,Bruno Oscar Schmidt,M,29,Brazil-1,Beach Volleyball,Gold
+107078,Bruno Oscar Schmidt,M,29,Brazil,Beach Volleyball,Gold
 107087,Dylan Matthew Schmidt,M,19,New Zealand,Trampolining,NA
 107122,Paloma Schmidt Gutirrez,F,29,Peru,Sailing,NA
 107131,Richard Schmidt,M,29,Germany,Rowing,Silver
@@ -10811,8 +10811,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 108198,Emily Jane Seebohm,F,24,Australia,Swimming,NA
 108198,Emily Jane Seebohm,F,24,Australia,Swimming,NA
 108198,Emily Jane Seebohm,F,24,Australia,Swimming,Silver
-108212,Barbora Seemanov,F,16,Czech Republic,Swimming,NA
-108212,Barbora Seemanov,F,16,Czech Republic,Swimming,NA
+108212,Barbora Seemanov,F,16,Czechia,Swimming,NA
+108212,Barbora Seemanov,F,16,Czechia,Swimming,NA
 108241,Janja egel,F,15,Slovenia,Swimming,NA
 108243,Sara Caroline Seger,F,31,Sweden,Football,Silver
 108302,Laraba Gnon Cessy Seibou,F,15,Benin,Swimming,NA
@@ -10847,7 +10847,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 108544,Maksym Oleksandrovych Semiankiv,M,24,Ukraine,Gymnastics,NA
 108544,Maksym Oleksandrovych Semiankiv,M,24,Ukraine,Gymnastics,NA
 108560,Csar Sempere Padilla,M,32,Spain,Rugby Sevens,NA
-108572,Konstantin Sergeyevich Semyonov,M,27,Russia-1,Beach Volleyball,NA
+108572,Konstantin Sergeyevich Semyonov,M,27,Russia,Beach Volleyball,NA
 108579,Sergey Viktorovich Semyonov,M,20,Russia,Wrestling,Bronze
 108585,Dara Semonowa,F,14,Turkmenistan,Swimming,NA
 108586,Anna Sergeyevna Sen,F,25,Russia,Handball,Gold
@@ -10996,7 +10996,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 109810,Shin Dong-Hyen,M,26,South Korea,Gymnastics,NA
 109810,Shin Dong-Hyen,M,26,South Korea,Gymnastics,NA
 109810,Shin Dong-Hyen,M,26,South Korea,Gymnastics,NA
-109817,Shin Seung-Chan,F,21,South Korea-1,Badminton,Bronze
+109817,Shin Seung-Chan,F,21,South Korea,Badminton,Bronze
 109827,Yoshua Shing,M,23,Vanuatu,Table Tennis,NA
 109850,Kazuya Shiojiri,M,19,Japan,Athletics,NA
 109853,Tsukasa Shiotani,M,27,Japan,Football,NA
@@ -11055,7 +11055,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 110252,Keren Michaela Siebner,F,26,Israel,Swimming,NA
 110265,Olivier Floris Johannes Siegelaar,M,29,Netherlands,Rowing,Bronze
 110270,Laura Natalie Siegemund,F,28,Germany,Tennis,NA
-110270,Laura Natalie Siegemund,F,28,Germany-1,Tennis,NA
+110270,Laura Natalie Siegemund,F,28,Germany,Tennis,NA
 110273,Maja Siegenthaler,F,23,Switzerland,Sailing,NA
 110298,Andriy Oleksiyovych Sienichkin,M,25,Ukraine,Gymnastics,NA
 110298,Andriy Oleksiyovych Sienichkin,M,25,Ukraine,Gymnastics,NA
@@ -11128,7 +11128,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 110966,Kenia Marsha Sinclair,F,36,Jamaica,Athletics,NA
 110969,Gabriel Sncrian,M,27,Romania,Weightlifting,NA
 110974,"Pusarla Venkata ""P. V."" Sindhu",F,21,India,Badminton,Silver
-110978,Marek indler,M,24,Czech Republic,Canoeing,NA
+110978,Marek indler,M,24,Czechia,Canoeing,NA
 110986,Iris Silva Tang Sing,F,25,Brazil,Taekwondo,NA
 111003,Akashdeep Singh,M,21,India,Hockey,NA
 111004,Alvin Singh,M,28,Fiji,Football,NA
@@ -11186,7 +11186,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 111586,Ladislav kantr,M,33,Slovakia,Canoeing,Gold
 111587,Peter kantr,M,34,Slovakia,Canoeing,Gold
 111603,"Angeliki ""Gelly"" Skarlatou",F,40,Greece,Sailing,NA
-111605,Jan karnitzl,M,30,Czech Republic,Cycling,NA
+111605,Jan karnitzl,M,30,Czechia,Cycling,NA
 111611,Marianne Skarpnord,F,30,Norway,Golf,NA
 111615,Nikolas Skarvelis,M,23,Greece,Athletics,NA
 111634,"Nicholas David ""Nick"" Skelton",M,58,United Kingdom,Equestrianism,Gold
@@ -11219,7 +11219,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 111975,Ian Sloan,M,22,United Kingdom,Hockey,NA
 111985,Lonneke Sletjes,F,25,Netherlands,Volleyball,NA
 111995,Sara Slott-Bruun Petersen,F,29,Denmark,Athletics,Silver
-112006,Markta Slukov,F,28,Czech Republic,Beach Volleyball,NA
+112006,Markta Slukov,F,28,Czechia,Beach Volleyball,NA
 112028,Albert Slimov,M,30,Azerbaijan,Boxing,NA
 112035,Zhansay Smagulov,M,23,Kazakhstan,Judo,NA
 112037,Mahaman Smaila,M,30,Cameroon,Boxing,NA
@@ -11289,8 +11289,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 112678,Aleksandra Anna Socha (-Szelagowski),F,34,Poland,Fencing,NA
 112678,Aleksandra Anna Socha (-Szelagowski),F,34,Poland,Fencing,NA
 112686,Jack Sock,M,23,United States of America,Tennis,NA
-112686,Jack Sock,M,23,United States of America-2,Tennis,Gold
-112686,Jack Sock,M,23,United States of America-2,Tennis,Bronze
+112686,Jack Sock,M,23,United States of America,Tennis,Gold
+112686,Jack Sock,M,23,United States of America,Tennis,Bronze
 112699,David Immanuel Sderberg,M,36,Finland,Athletics,NA
 112739,Kameli Raravou Latianara Soejima,M,33,Japan,Rugby Sevens,NA
 112757,Eduard Soghomonyan,M,26,Brazil,Wrestling,NA
@@ -11373,7 +11373,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 113781,Levern Donaline Spencer,F,32,Saint Lucia,Athletics,NA
 113837,Jrgen Spie,M,32,Germany,Weightlifting,NA
 113851,Simon pilak,M,30,Slovenia,Cycling,NA
-113854,Klra Spilkov,F,21,Czech Republic,Golf,NA
+113854,Klra Spilkov,F,21,Czechia,Golf,NA
 113878,Vanessa Chefer Spnola,F,26,Brazil,Athletics,NA
 113892,Darya Sergeyevna Spiridonova,F,18,Russia,Gymnastics,Silver
 113892,Darya Sergeyevna Spiridonova,F,18,Russia,Gymnastics,NA
@@ -11382,7 +11382,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 113893,Nicola Spirig Hug,F,34,Switzerland,Triathlon,Silver
 113901,Pawe Tadeusz Spisak,M,34,Poland,Equestrianism,NA
 113913,Sabine Spitz,F,44,Germany,Cycling,NA
-113946,Barbora potkov,F,35,Czech Republic,Athletics,Bronze
+113946,Barbora potkov,F,35,Czechia,Athletics,Bronze
 113955,Amanda Spratt,F,28,Australia,Cycling,NA
 113986,Thomas Springer,M,31,Austria,Triathlon,NA
 113991,Maria Springwald,F,25,Poland,Rowing,Bronze
@@ -11415,7 +11415,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 114220,Jesper Stlheim,M,28,Sweden,Sailing,NA
 114232,Esther Stam,F,29,Georgia,Judo,NA
 114237,Debby Stam-Pilon,F,32,Netherlands,Volleyball,NA
-114298,Tom Stank,M,25,Czech Republic,Athletics,NA
+114298,Tom Stank,M,25,Czechia,Athletics,NA
 114309,Non Rhiannydd Stanford,F,27,United Kingdom,Triathlon,NA
 114328,Eimantas Stanionis,M,21,Lithuania,Boxing,NA
 114343,Svitlana Oleksandrivna Stanko (Klymenko-),F,40,Ukraine,Athletics,NA
@@ -11470,8 +11470,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 114932,Linnea Stensils,F,22,Sweden,Canoeing,NA
 114934,Henrik Olof Stenson,M,40,Sweden,Golf,Silver
 114945,Luka Stepani,M,25,Croatia,Handball,NA
-114947,Radek tpnek,M,37,Czech Republic,Tennis,Bronze
-114947,Radek tpnek,M,37,Czech Republic,Tennis,NA
+114947,Radek tpnek,M,37,Czechia,Tennis,Bronze
+114947,Radek tpnek,M,37,Czechia,Tennis,NA
 114951,"Daryna Viktorivna ""Dar'ia"" Stepaniuk",F,26,Ukraine,Swimming,NA
 114951,"Daryna Viktorivna ""Dar'ia"" Stepaniuk",F,26,Ukraine,Swimming,NA
 114956,Inna Yakovlevna Stepanova,F,26,Russia,Archery,NA
@@ -11486,8 +11486,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 115001,Oleq Stepko,M,22,Azerbaijan,Gymnastics,NA
 115001,Oleq Stepko,M,22,Azerbaijan,Gymnastics,NA
 115001,Oleq Stepko,M,22,Azerbaijan,Gymnastics,NA
-115008,Jan trba,M,35,Czech Republic,Canoeing,NA
-115008,Jan trba,M,35,Czech Republic,Canoeing,Bronze
+115008,Jan trba,M,35,Czechia,Canoeing,NA
+115008,Jan trba,M,35,Czechia,Canoeing,Bronze
 115058,Ivan Stevanovi,M,34,Croatia,Handball,NA
 115059,Jovana Stevanovi,F,24,Serbia,Volleyball,Silver
 115071,Deajah Stevens,F,21,United States of America,Athletics,NA
@@ -11554,20 +11554,20 @@ ID,Name,Sex,Age,Team,Sport,Medal
 115883,Ioana Strungaru (Crciun-),F,27,Romania,Rowing,Bronze
 115892,Martina Strutz,F,34,Germany,Athletics,NA
 115894,Hans Struzyna,M,27,United States of America,Rowing,NA
-115895,Barbora Strcov (-Zhlavov),F,30,Czech Republic,Tennis,NA
-115895,Barbora Strcov (-Zhlavov),F,30,Czech Republic-1,Tennis,Bronze
+115895,Barbora Strcov (-Zhlavov),F,30,Czechia,Tennis,NA
+115895,Barbora Strcov (-Zhlavov),F,30,Czechia,Tennis,Bronze
 115922,Bianca Stuart,F,28,Bahamas,Athletics,NA
 115949,"Jennifer ""Jenn"" Stuczynski-Suhr",F,34,United States of America,Athletics,NA
 116018,Ronja Fini Sturm,F,20,Germany,Rowing,NA
 116034,Khrystyna Petrivna Stuy,F,28,Ukraine,Athletics,NA
-116036,Zdenk tybar,M,30,Czech Republic,Cycling,NA
+116036,Zdenk tybar,M,30,Czechia,Cycling,NA
 116059,Su Bingtian,M,26,China,Athletics,NA
 116059,Su Bingtian,M,26,China,Athletics,NA
 116071,Su Xinyue,F,24,China,Athletics,NA
 116074,Derek Sua,M,28,Samoa,Judo,NA
 116082,Carla Surez Navarro,F,27,Spain,Tennis,NA
-116082,Carla Surez Navarro,F,27,Spain-1,Tennis,NA
-116082,Carla Surez Navarro,F,27,Spain-1,Tennis,NA
+116082,Carla Surez Navarro,F,27,Spain,Tennis,NA
+116082,Carla Surez Navarro,F,27,Spain,Tennis,NA
 116085,Charly Coronel Suarez,M,27,Philippines,Boxing,NA
 116102,Leonel Surez Fajardo,M,28,Cuba,Athletics,NA
 116121,Jamie Chen Subandhi,F,26,United States of America,Badminton,NA
@@ -11644,23 +11644,23 @@ ID,Name,Sex,Age,Team,Sport,Medal
 116824,Musashi Suzuki,M,22,Japan,Football,NA
 116828,Satomi Suzuki,F,25,Japan,Swimming,NA
 116828,Satomi Suzuki,F,25,Japan,Swimming,NA
-116846,Filip vb,M,33,Czech Republic,Canoeing,NA
+116846,Filip vb,M,33,Czechia,Canoeing,NA
 116859,Lasse Jemon Svan Hansen,M,32,Denmark,Handball,Gold
-116884,Lucie Svcen,F,18,Czech Republic,Swimming,NA
-116884,Lucie Svcen,F,18,Czech Republic,Swimming,NA
+116884,Lucie Svcen,F,18,Czechia,Swimming,NA
+116884,Lucie Svcen,F,18,Czechia,Swimming,NA
 116926,Sven Ludwig Svennerstl,M,25,Sweden,Equestrianism,NA
 116926,Sven Ludwig Svennerstl,M,25,Sweden,Equestrianism,NA
 116927,Anna Malvina Svennung,F,31,Sweden,Rowing,NA
 116968,Erik Marcus Svensson,M,26,Sweden,Shooting,Silver
 117010,Elina Mykhailivna Svitolina,F,21,Ukraine,Tennis,NA
 117010,Elina Mykhailivna Svitolina,F,21,Ukraine-1,Tennis,NA
-117012,David Svoboda,M,31,Czech Republic,Modern Pentathlon,NA
-117025,Petr Svoboda,M,31,Czech Republic,Athletics,NA
+117012,David Svoboda,M,31,Czechia,Modern Pentathlon,NA
+117025,Petr Svoboda,M,31,Czechia,Athletics,NA
 117059,Isabel Marques Swan,F,32,Brazil,Sailing,NA
 117061,Lianna Catherine Swan,F,19,Pakistan,Swimming,NA
 117067,Matthew Swann,M,27,Australia,Hockey,NA
 117068,Polly Ann M. Swann,F,28,United Kingdom,Rowing,Silver
-117088,Brooke Sweat (Youngquist-),F,30,United States of America-2,Beach Volleyball,NA
+117088,Brooke Sweat (Youngquist-),F,30,United States of America,Beach Volleyball,NA
 117108,Kirsten Sweetland,F,27,Canada,Triathlon,NA
 117139,Justyna wity,F,23,Poland,Athletics,NA
 117139,Justyna wity,F,23,Poland,Athletics,NA
@@ -11673,12 +11673,12 @@ ID,Name,Sex,Age,Team,Sport,Medal
 117177,Mame-Marie Sy-Diop,F,31,Senegal,Basketball,NA
 117182,Toni Syarifudin,M,25,Indonesia,Cycling,NA
 117190,Kseniya Volodymyrivna Sydorenko,F,30,Ukraine,Synchronized Swimming,NA
-117212,Ji Skora,M,21,Czech Republic,Athletics,NA
-117221,Adla Skorov-Bruns,F,29,Czech Republic,Shooting,NA
-117221,Adla Skorov-Bruns,F,29,Czech Republic,Shooting,NA
+117212,Ji Skora,M,21,Czechia,Athletics,NA
+117221,Adla Skorov-Bruns,F,29,Czechia,Shooting,NA
+117221,Adla Skorov-Bruns,F,29,Czechia,Shooting,NA
 117223,Miriam Fatime Sylla,F,21,Italy,Volleyball,NA
 117237,Nikolas Sylvester,M,16,Saint Vincent and the Grenadines,Swimming,NA
-117258,Ondej Synek,M,33,Czech Republic,Rowing,Bronze
+117258,Ondej Synek,M,33,Czechia,Rowing,Bronze
 117268,Kamil Syprzak,M,25,Poland,Handball,NA
 117302,Elmira Anuarbekovna Syzdykova,F,24,Kazakhstan,Wrestling,Bronze
 117308,Norbert Szabin,M,33,Hungary,Shooting,NA
@@ -11731,7 +11731,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 117770,Hassan Taftian,M,23,Iran,Athletics,NA
 117816,Hassan Saman Tahmasebi,M,31,Azerbaijan,Wrestling,NA
 117820,Roger Tahull Compte,M,19,Spain,Water Polo,NA
-117824,Tai Tzu-Ying,F,22,Chinese Taipei,Badminton,NA
+117824,Tai Tzu-Ying,F,22,China,Badminton,NA
 117826,Mohamed Al-Taieb,M,19,Tunisia,Rowing,NA
 117835,Kaspar Taimsoo,M,29,Estonia,Rowing,Bronze
 117854,Jeremy Taiwo,M,26,United States of America,Athletics,NA
@@ -11782,7 +11782,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 118231,"Timaima ""Tima"" Tamoi",F,28,Fiji,Rugby Sevens,NA
 118234,Giannis Tamouridis,M,36,Greece,Cycling,NA
 118248,Tomoya Tamura,M,23,Japan,Athletics,NA
-118257,Tan Chi-Chung,M,26,Chinese Taipei,Weightlifting,NA
+118257,Tan Chi-Chung,M,26,China,Weightlifting,NA
 118268,Tan Jiaxin,F,19,China,Gymnastics,Bronze
 118268,Tan Jiaxin,F,19,China,Gymnastics,NA
 118269,Kelly Tan,F,22,Malaysia,Golf,NA
@@ -11791,8 +11791,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 118281,Li Ching Sara Tan,F,25,Singapore,Sailing,NA
 118296,Tan Wee Kiong,M,27,Malaysia,Badminton,Silver
 118298,Tan Ya,M,24,China,Canoeing,NA
-118299,Tan Ya-Ting,F,22,Chinese Taipei,Archery,NA
-118299,Tan Ya-Ting,F,22,Chinese Taipei,Archery,Bronze
+118299,Tan Ya-Ting,F,22,China,Archery,NA
+118299,Tan Ya-Ting,F,22,China,Archery,Bronze
 118302,Yuhan Nathanael Tan,M,29,Belgium,Badminton,NA
 118352,Tomomi Tanaka,F,28,Japan,Athletics,NA
 118359,Yusuke Tanaka,M,26,Japan,Gymnastics,Gold
@@ -11811,7 +11811,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 118429,Tang Peng,M,35,Hong Kong,Table Tennis,NA
 118436,Tang Xingqiang,M,20,China,Athletics,NA
 118439,Tang Yi,F,23,China,Swimming,NA
-118442,Tang Yuanting,F,22,China-1,Badminton,NA
+118442,Tang Yuanting,F,22,China,Badminton,NA
 118449,Abdullo Tovashevich Tangriyev,M,35,Uzbekistan,Judo,NA
 118465,Noriko Taniguchi,F,23,Japan,Rugby Sevens,NA
 118467,Takayuki Tanii,M,33,Japan,Athletics,NA
@@ -11906,7 +11906,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 119191,Teo Shun Xie,F,27,Singapore,Shooting,NA
 119191,Teo Shun Xie,F,27,Singapore,Shooting,NA
 119198,Milo Teodosi,M,29,Serbia,Basketball,Silver
-119212,Viktor Tepl,M,25,Czech Republic,Sailing,NA
+119212,Viktor Tepl,M,25,Czechia,Sailing,NA
 119233,Asuka Teramoto,F,20,Japan,Gymnastics,NA
 119233,Asuka Teramoto,F,20,Japan,Gymnastics,NA
 119233,Asuka Teramoto,F,20,Japan,Gymnastics,NA
@@ -12118,7 +12118,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 121073,Jean-Paul Tony Helissey,M,26,France,Fencing,Silver
 121080,Tia-Clair Toomey,F,23,Australia,Weightlifting,NA
 121108,Gelena Dmitriyevna Topilina,F,22,Russia,Synchronized Swimming,Gold
-121109,"Miroslava ""Mirka"" Topinkov Knapkov",F,35,Czech Republic,Rowing,NA
+121109,"Miroslava ""Mirka"" Topinkov Knapkov",F,35,Czechia,Rowing,NA
 121123,Namita Toppo,F,21,India,Hockey,NA
 121125,Edwina Tops-Alexander,F,42,Australia,Equestrianism,NA
 121125,Edwina Tops-Alexander,F,42,Australia,Equestrianism,NA
@@ -12186,7 +12186,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 121749,Inna Vyacheslavovna Trazhukova,F,25,Russia,Wrestling,NA
 121755,Sara Louise Treacy,F,27,Ireland,Athletics,NA
 121757,Alyxandria Treasure,F,24,Canada,Athletics,NA
-121768,Luk Trefil,M,27,Czech Republic,Canoeing,Bronze
+121768,Luk Trefil,M,27,Czechia,Canoeing,Bronze
 121790,Edus Treimanis,M,28,Latvia,Cycling,NA
 121813,Jessy Trmoulire,F,24,France,Rugby Sevens,NA
 121822,Jessica Trengove,F,28,Australia,Athletics,NA
@@ -12215,9 +12215,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 122145,Belinda Kim Trussell,F,44,Canada,Equestrianism,NA
 122149,Jrme Truyens,M,28,Belgium,Hockey,Silver
 122163,Katarzyna Trzopek,F,35,United States of America,Fencing,NA
-122175,Tsai Chia-Hsin,M,34,Chinese Taipei,Badminton,NA
+122175,Tsai Chia-Hsin,M,34,China,Badminton,NA
 122177,Deborah Jiahui Tsai,F,21,Australia,Synchronized Swimming,NA
-122183,Tsai Ming-Yen,M,20,Chinese Taipei,Judo,NA
+122183,Tsai Ming-Yen,M,20,China,Judo,NA
 122199,Likourgos-Stefanos Tsakonas,M,26,Greece,Athletics,NA
 122216,Ruslan Tsarev,M,25,Kyrgyzstan,Wrestling,NA
 122219,Oleh Serhiyovych Tsarkov,M,28,Ukraine,Shooting,NA
@@ -12402,9 +12402,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 123664,Elsie Uwamahoro,F,27,Burundi,Swimming,NA
 123667,Ambroise Uwiragiye,M,35,Rwanda,Athletics,NA
 123679,"Benjamin Chukwukelo ""Ben"" Uzoh",M,28,Nigeria,Basketball,NA
-123714,Iveta Vacenovsk,F,30,Czech Republic,Table Tennis,NA
+123714,Iveta Vacenovsk,F,30,Czechia,Table Tennis,NA
 123745,Lara Vadlau,F,22,Austria,Sailing,NA
-123746,Jakub Vadlejch,M,25,Czech Republic,Athletics,NA
+123746,Jakub Vadlejch,M,25,Czechia,Athletics,NA
 123747,Benjamin Vadnai,M,20,Hungary,Sailing,NA
 123780,ivil Vaiciukeviit,F,20,Lithuania,Athletics,NA
 123802,Nanna Vainio,F,25,Finland,Badminton,NA
@@ -12412,7 +12412,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 123815,Apolonia Vaivai,F,25,Fiji,Weightlifting,NA
 123823,Donna Marie Vakalis,F,36,Canada,Modern Pentathlon,NA
 123824,Virimi Vakatawa,M,24,France,Rugby Sevens,NA
-123831,Petr Vako,M,24,Czech Republic,Cycling,NA
+123831,Petr Vako,M,24,Czechia,Cycling,NA
 123846,Jonas Valaninas,M,24,Lithuania,Basketball,NA
 123871,Milda Valiukait,F,22,Lithuania,Rowing,Bronze
 123884,Alejandro Enrique Valds Tobier,M,27,Cuba,Wrestling,NA
@@ -12512,7 +12512,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 124628,Maximilien Van Haaster,M,24,Canada,Fencing,NA
 124671,Seppe Van Holsbeke,M,28,Belgium,Fencing,NA
 124681,Rudolphus Antonie Cornelis Rudi van Houts,M,32,Netherlands,Cycling,NA
-124693,Marleen Maria van Iersel (-Ramond),F,28,Netherlands-1,Beach Volleyball,NA
+124693,Marleen Maria van Iersel (-Ramond),F,28,Netherlands,Beach Volleyball,NA
 124716,Adam Joseph Van Koeverden,M,34,Canada,Canoeing,NA
 124724,Wannes Van Laer,M,31,Belgium,Sailing,NA
 124731,Chantal Jean Van Landeghem,F,22,Canada,Swimming,NA
@@ -12559,7 +12559,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 125035,Vincent Vanasch,M,28,Belgium,Hockey,Silver
 125093,Arianna Fritzallen Vanderpool-Wallace,F,26,Bahamas,Swimming,NA
 125093,Arianna Fritzallen Vanderpool-Wallace,F,26,Bahamas,Swimming,NA
-125106,"Colleen Mullarkey (Colleen Hutchins-) ""CoCo"" Vandeweghe (-Mullarkey)",F,24,United States of America-2,Tennis,NA
+125106,"Colleen Mullarkey (Colleen Hutchins-) ""CoCo"" Vandeweghe (-Mullarkey)",F,24,United States of America,Tennis,NA
 125110,Jan Vandrey,M,24,Germany,Canoeing,Gold
 125122,Margit Vanek,F,30,Hungary,Triathlon,NA
 125125,Federico Vanelli,M,25,Italy,Swimming,NA
@@ -12684,10 +12684,10 @@ ID,Name,Sex,Age,Team,Sport,Medal
 126171,Jorinde Verwimp,F,21,Belgium,Equestrianism,NA
 126174,Maicol Verzotto,M,28,Italy,Diving,NA
 126177,Cynthia Vanessa Vescan,F,24,France,Wrestling,NA
-126194,Vitzslav Vesel,M,33,Czech Republic,Athletics,NA
-126199,Yelena Sergeyevna Vesnina,F,30,Russia-2,Tennis,Gold
-126227,Jan Vetenk,M,32,Czech Republic,Rowing,NA
-126228,Ondej Vetenk,M,32,Czech Republic,Rowing,NA
+126194,Vitzslav Vesel,M,33,Czechia,Athletics,NA
+126199,Yelena Sergeyevna Vesnina,F,30,Russia,Tennis,Gold
+126227,Jan Vetenk,M,32,Czechia,Rowing,NA
+126228,Ondej Vetenk,M,32,Czechia,Rowing,NA
 126233,Vera Aleksandrovna Vetrova (Ulyakina-),F,29,Russia,Volleyball,NA
 126238,Anouk Vetter,F,23,Netherlands,Athletics,NA
 126241,Johannes Vetter,M,23,Germany,Athletics,NA
@@ -12808,9 +12808,9 @@ ID,Name,Sex,Age,Team,Sport,Medal
 127585,Anastasiya Sergeyevna Voynova,F,23,Russia,Cycling,Silver
 127590,Tjaa Vozel,F,22,Slovenia,Swimming,NA
 127591,Anastasiya Romanivna Vozniak,F,17,Ukraine,Rhythmic Gymnastics,NA
-127594,Eva Vrabcov-Nvltov,F,30,Czech Republic,Athletics,NA
+127594,Eva Vrabcov-Nvltov,F,30,Czechia,Athletics,NA
 127600,Marija Vraji,F,39,Croatia,Athletics,NA
-127609,Miroslav Vratil,M,33,Czech Republic,Rowing,NA
+127609,Miroslav Vratil,M,33,Czechia,Rowing,NA
 127631,"Jan Johannes ""Jur"" Vrieling",M,47,Netherlands,Equestrianism,NA
 127631,"Jan Johannes ""Jur"" Vrieling",M,47,Netherlands,Equestrianism,NA
 127642,Josip Vrli,M,30,Brazil,Water Polo,NA
@@ -12840,7 +12840,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 128036,Marta Walczykiewicz,F,29,Poland,Canoeing,Silver
 128036,Marta Walczykiewicz,F,29,Poland,Canoeing,NA
 128077,Bianca Michaela Walkden,F,24,United Kingdom,Taekwondo,Bronze
-128079,Kira Walkenhorst,F,25,Germany-1,Beach Volleyball,Gold
+128079,Kira Walkenhorst,F,25,Germany,Beach Volleyball,Gold
 128108,"Jessica Samantha ""Jess"" Walker",F,26,United Kingdom,Canoeing,NA
 128108,"Jessica Samantha ""Jess"" Walker",F,26,United Kingdom,Canoeing,NA
 128136,Samuel Walker,M,21,United Kingdom,Table Tennis,NA
@@ -12858,7 +12858,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 128272,Julian Jrummi Walsh,M,19,Japan,Athletics,NA
 128281,Tahir Jelani Walsh,M,22,Antigua and Barbuda,Athletics,NA
 128283,"Tomas ""Tom"" Walsh",M,24,New Zealand,Athletics,Bronze
-128285,Kerri Lee Walsh Jennings,F,37,United States of America-1,Beach Volleyball,Bronze
+128285,Kerri Lee Walsh Jennings,F,37,United States of America,Beach Volleyball,Bronze
 128346,Jonathan Francis L. Walton,M,25,United Kingdom,Rowing,NA
 128355,Marcus Cooper Walz,M,21,Spain,Canoeing,Gold
 128366,Margaret Nyairera Wambui,F,20,Kenya,Athletics,Bronze
@@ -12978,8 +12978,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 129236,Ferry Weertman,M,24,Netherlands,Swimming,Gold
 129242,Jarimit Leonor Weffer Guanipa,F,30,Venezuela,Wrestling,NA
 129264,Natan Wgrzycki-Szymczyk,M,21,Poland,Rowing,NA
-129284,Wei Chun-Heng,M,22,Chinese Taipei,Archery,NA
-129284,Wei Chun-Heng,M,22,Chinese Taipei,Archery,NA
+129284,Wei Chun-Heng,M,22,China,Archery,NA
+129284,Wei Chun-Heng,M,22,China,Archery,NA
 129288,Wei Meng,F,27,China,Shooting,NA
 129289,Wei Ning,F,33,China,Shooting,NA
 129294,Wei Qiuyue,F,27,China,Volleyball,Gold
@@ -13113,7 +13113,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 130645,Michelle Williams (-Toro),F,25,Canada,Swimming,Bronze
 130647,Niall Williams,F,28,New Zealand,Rugby Sevens,Silver
 130667,Serena Jamika Williams,F,34,United States of America,Tennis,NA
-130667,Serena Jamika Williams,F,34,United States of America-1,Tennis,NA
+130667,Serena Jamika Williams,F,34,United States of America,Tennis,NA
 130669,Sharni Williams,F,28,Australia,Rugby Sevens,Gold
 130673,Shermaine Williams,F,26,Jamaica,Athletics,NA
 130678,"Sonny William ""Sonny Bill"" Williams",M,31,New Zealand,Rugby Sevens,NA
@@ -13123,8 +13123,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 130692,Toni-Ann Natasha Williams,F,20,Jamaica,Gymnastics,NA
 130692,Toni-Ann Natasha Williams,F,20,Jamaica,Gymnastics,NA
 130696,Venus Ebony Starr Williams,F,36,United States of America,Tennis,NA
-130696,Venus Ebony Starr Williams,F,36,United States of America-1,Tennis,Silver
-130696,Venus Ebony Starr Williams,F,36,United States of America-1,Tennis,NA
+130696,Venus Ebony Starr Williams,F,36,United States of America,Tennis,Silver
+130696,Venus Ebony Starr Williams,F,36,United States of America,Tennis,NA
 130702,"Zachary ""Zac"" Williams",M,21,New Zealand,Cycling,NA
 130707,Novlene Hilaire Williams-Mills,F,34,Jamaica,Athletics,Silver
 130728,Andrew Willis,M,25,United Kingdom,Swimming,NA
@@ -13181,7 +13181,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 131419,Chun Ting Wong,M,24,Hong Kong,Table Tennis,NA
 131419,Chun Ting Wong,M,24,Hong Kong,Table Tennis,NA
 131420,"Zi Liang ""Derek"" Wong",M,27,Singapore,Badminton,NA
-131425,Wong Isheau,F,27,Chinese Taipei,Equestrianism,NA
+131425,Wong Isheau,F,27,China,Equestrianism,NA
 131428,"Guanjie ""Johnathan"" Wong",M,23,Malaysia,Shooting,NA
 131428,"Guanjie ""Johnathan"" Wong",M,23,Malaysia,Shooting,NA
 131451,Panipak Wongpattanakit,F,18,Thailand,Taekwondo,Bronze
@@ -13213,8 +13213,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 131682,Alex Wright,M,25,Ireland,Athletics,NA
 131707,"Jonathan ""Joe"" Wright",M,24,New Zealand,Rowing,NA
 131763,Wu Ashun,M,31,China,Golf,NA
-131769,Wu Chia-Ying,F,23,Chinese Taipei,Shooting,NA
-131769,Wu Chia-Ying,F,23,Chinese Taipei,Shooting,NA
+131769,Wu Chia-Ying,F,23,China,Shooting,NA
+131769,Wu Chia-Ying,F,23,China,Shooting,NA
 131781,Wu Di,F,22,China,Basketball,NA
 131784,Felipe Almeida Wu,M,24,Brazil,Shooting,Silver
 131784,Felipe Almeida Wu,M,24,Brazil,Shooting,NA
@@ -13316,7 +13316,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 132507,Yang Hyo-Jin,F,26,South Korea,Volleyball,NA
 132517,Yang Jun,F,28,China,Water Polo,NA
 132519,Yang Junxia,F,27,China,Judo,NA
-132520,Yang Kun-Pi,M,17,Chinese Taipei,Shooting,NA
+132520,Yang Kun-Pi,M,17,China,Shooting,NA
 132521,Yang Kyong-Il,M,26,North Korea,Wrestling,NA
 132522,Yang Li,F,25,China,Football,NA
 132566,Yang Ye,F,22,China,Rhythmic Gymnastics,NA
@@ -13412,15 +13412,15 @@ ID,Name,Sex,Age,Team,Sport,Medal
 133248,Cherif Younousse Samba,M,21,Qatar,Beach Volleyball,NA
 133252,Abdalla Yousif,M,19,Sudan,Athletics,NA
 133277,Kamia Yousufi,F,20,Afghanistan,Athletics,NA
-133288,Yu Ai-Wen,F,20,Chinese Taipei,Shooting,NA
-133288,Yu Ai-Wen,F,20,Chinese Taipei,Shooting,NA
+133288,Yu Ai-Wen,F,20,China,Shooting,NA
+133288,Yu Ai-Wen,F,20,China,Shooting,NA
 133294,Yu Chenggang,M,32,China,Rowing,NA
 133302,Yu Dong-Ju,M,22,South Korea,Weightlifting,NA
 133303,Yu Eun-Hui,F,26,South Korea,Handball,NA
 133306,Yu Fengkai,M,21,China,Boxing,NA
 133308,Fu Yu,F,37,Portugal,Table Tennis,NA
-133310,Yu Guan-Lin,M,22,Chinese Taipei,Archery,NA
-133310,Yu Guan-Lin,M,22,Chinese Taipei,Archery,NA
+133310,Yu Guan-Lin,M,22,China,Archery,NA
+133310,Yu Guan-Lin,M,22,China,Archery,NA
 133313,Yu Hexin,M,20,China,Swimming,NA
 133313,Yu Hexin,M,20,China,Swimming,NA
 133313,Yu Hexin,M,20,China,Swimming,NA
@@ -13436,8 +13436,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 133375,Yu Won-Cheol,M,32,South Korea,Gymnastics,NA
 133375,Yu Won-Cheol,M,32,South Korea,Gymnastics,NA
 133375,Yu Won-Cheol,M,32,South Korea,Gymnastics,NA
-133381,Yu Yang,F,30,China-1,Badminton,NA
-133384,Yu Yeon-Seong,M,29,South Korea-1,Badminton,NA
+133381,Yu Yang,F,30,China,Badminton,NA
+133384,Yu Yeon-Seong,M,29,South Korea,Badminton,NA
 133399,Yuan Qiqi,F,20,China,Athletics,NA
 133399,Yuan Qiqi,F,20,China,Athletics,NA
 133402,Yuan Xinyue,F,19,China,Volleyball,Gold
@@ -13518,8 +13518,8 @@ ID,Name,Sex,Age,Team,Sport,Medal
 134058,Irina Vladimirovna Zaryazhko,F,24,Russia,Volleyball,NA
 134068,Alen Taimurazovych Zasieiev,M,27,Ukraine,Wrestling,NA
 134081,Pawe Zatorski,M,26,Poland,Volleyball,NA
-134094,Barbora Zvadov,F,23,Czech Republic,Swimming,NA
-134094,Barbora Zvadov,F,23,Czech Republic,Swimming,NA
+134094,Barbora Zvadov,F,23,Czechia,Swimming,NA
+134094,Barbora Zvadov,F,23,Czechia,Swimming,NA
 134097,Alejandra Zavala Vzquez,F,32,Mexico,Shooting,NA
 134133,Kotoki Zayasu,F,26,Japan,Volleyball,NA
 134135,Aleksandr Sergeyevich Zaychikov,M,23,Kazakhstan,Weightlifting,Bronze
@@ -13571,15 +13571,15 @@ ID,Name,Sex,Age,Team,Sport,Medal
 134516,Zhang Mengxue,F,25,China,Shooting,Gold
 134518,Zhang Min,F,23,China,Rowing,NA
 134520,Mo Zhang,F,27,Canada,Table Tennis,NA
-134523,Zhang Nan,M,26,China-1,Badminton,Bronze
-134523,Zhang Nan,M,26,China-1,Badminton,Gold
+134523,Zhang Nan,M,26,China,Badminton,Bronze
+134523,Zhang Nan,M,26,China,Badminton,Gold
 134528,Zhang Peimeng,M,29,China,Athletics,NA
 134528,Zhang Peimeng,M,29,China,Athletics,NA
 134532,Zhang Qibin,M,22,China,Swimming,NA
 134540,Zhang Rui,F,27,China,Football,NA
 134541,"Ziyu ""Sally"" Zhang",F,25,Australia,Table Tennis,NA
 134544,Zhang Shuai,F,27,China,Tennis,NA
-134544,Zhang Shuai,F,27,China-1,Tennis,NA
+134544,Zhang Shuai,F,27,China,Tennis,NA
 134558,Zhang Weiwei,F,25,China,Water Polo,NA
 134559,Zhang Wenxiu,F,30,China,Athletics,Silver
 134570,Zhang Xiaonan,F,24,China,Modern Pentathlon,NA
@@ -13603,7 +13603,7 @@ ID,Name,Sex,Age,Team,Sport,Medal
 134661,Zhao Shengbo,M,34,China,Shooting,NA
 134663,Zhao Shuai,M,20,China,Taekwondo,Gold
 134682,Zhao Yudiao,F,27,China,Hockey,NA
-134683,Zhao Yunlei,F,29,China-1,Badminton,Bronze
+134683,Zhao Yunlei,F,29,China,Badminton,Bronze
 134684,Zhao Zhifang,F,21,China,Basketball,NA
 134687,Zhao Zihan,F,22,China,Water Polo,NA
 134690,Ruslan Zhaparov,M,20,Kazakhstan,Taekwondo,NA
