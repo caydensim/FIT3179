@@ -8,12 +8,13 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
+  <h1> Welcome to my Page </h1>
   
-<div id="vis"></div>
+<div id="map_idiom"></div>
 
 <script type="text/javascript">
-  var spec = "https://caydensim.github.io/FIT3179/countryMedals.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  var map1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/map_idiom.json";
+  vegaEmbed('#map_idiom', map1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
