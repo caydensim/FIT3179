@@ -12,8 +12,8 @@
   <h2> Map Visualisation </h2>
 <div id="map_idiom"></div>
   
-  <h2> Stacked Histogram Visualisation </h2>
-  <div id="shist_idiom"></div>
+  <h2> Interactive Bubbleplot Visualisation </h2>
+  <div id="bplot_idiom"></div>
 
 <script type="text/javascript">
   var map1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/map_idiom.json";
@@ -21,8 +21,8 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-   var shist1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/stackhist_idiom.json";
-  vegaEmbed('#shist_idiom', shist1).then(function(result) {
+   var bplot1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/bubbleplot_idiom.json";
+  vegaEmbed('#bplot_idiom', bplot1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
