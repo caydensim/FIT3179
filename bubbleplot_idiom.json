@@ -1,0 +1,97 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "1992-2016 Summer and Winter Olympic Medals",
+  "data": {
+    "url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/season_medal_1992.csv"
+  },
+  "params": [
+    {
+      "name": "Medal_Below",
+      "value": 2200,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 2200,
+        "step": 50,
+        "name": "Total Medals Won"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Total > 1"},
+    {"filter": "datum.Total < Medal_Below"}
+  ],
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "Summer",
+      "type": "quantitative",
+      "title": "Summer Medals",
+      "axis": {"tickCount": 7}
+    },
+    "y": {
+      "field": "Winter",
+      "type": "quantitative",
+      "title": "Winter Medals",
+      "axis": {"tickCount": 7}
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "participant_highlight": {
+          "type": "multi",
+          "fields": ["Participants"],
+          "bind": "legend"
+        }
+      },
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Participants",
+          "type": "quantitative",
+          "scale": {"type": "sequential", "domain": [100, 1000, 3000, 5000]}
+        },
+        "color": {"field": "Team", "type": "nominal", "legend": null},
+        "opacity": {
+          "condition": {
+            "test": "datum.Participants < participant_highlight",
+            "value": 0.6
+          },
+          "value": 0.2
+        },
+        "tooltip": [
+          {"field": "Team", "type": "Nominal"},
+          {"field": "Summer", "type": "quantitative"},
+          {"field": "Winter", "type": "quantitative"},
+          {"field": "Total", "type": "quantitative"},
+          {"field": "Participants", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Team", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Team'] == 'China' || datum['Team'] == 'Russia' || datum['Team'] == 'Australia' || datum['Team'] == 'Canada' || datum['Team'] == 'Italy' || datum['Team'] == 'Germany' ||  datum['Team'] == 'United States of America'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ],
+  "config": {}
+}
