@@ -33,6 +33,7 @@
       },
       "legend": {"title": "Participant Medal Rate", "format": "%"}
     },
+    "stroke": {"value": "white"},
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
       {"field": "Bronze", "type": "quantitative"},
