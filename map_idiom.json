@@ -25,7 +25,7 @@
     "color": {
       "field": "Norm",
       "type": "quantitative",
-      "bin": {"step": 0.08},
+      "bin": {"step": 0.06},
       "scale": {
         "domain": "unaggregated",
         "scheme": "darkmulti",
