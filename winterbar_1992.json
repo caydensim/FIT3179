@@ -18,7 +18,7 @@
   "encoding": {
   "y": {"field": "Team", "type": "nominal", "sort": {"field": "rank"},
     "axis": {"title": ""}},
-  "x": {"field": "Total", "type": "quantitative","scale": {"domain": [0, 2000]}
+  "x": {"field": "Total", "type": "quantitative","scale": {"domain": [0, 2000]}, "axis": {"title": ""}
   },
   "color": {"field": "Total", "type": "quantitative", "legend": null, 
   "scale": {"range": ["lightblue", "lightblue"]}
