@@ -54,7 +54,7 @@
           "type": "quantitative",
           "scale": {"type": "sequential", "domain": [100, 1000, 3000, 5000]}
         },
-        "color": {"field": "Team", "type": "nominal", "legend": null},
+        "color": {"field": "Continent", "type": "nominal"},
         "opacity": {
           "condition": {
             "test": "datum.Participants < participant_highlight",
