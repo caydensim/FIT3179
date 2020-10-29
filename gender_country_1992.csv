@@ -1,41 +1,41 @@
-﻿Team,Continent,Gender,Medal Won
-United States of America,Americas,M,1024
-Germany,Europe,M,710
-Russia,Europe,M,595
-Australia,Oceania,M,458
-China,Asia,M,294
-Canada,Africa,M,335
-Italy,Europe,M,430
-France,Europe,M,415
-United Kingdom,Asia,M,345
-Netherlands,Europe,M,238
-South Korea,Asia,M,270
-Japan,Asia,M,255
-Norway,Europe,M,204
-Spain,Europe,M,253
-Sweden,Europe,M,222
-Brazil,Americas,M,217
-Cuba,Americas,M,240
-Unified Team,Europe,M,162
-Finland,Europe,M,197
-Hungary,Europe,M,155
-United States of America,Americas,F,1157
-Germany,Europe,F,555
-Russia,Europe,F,553
-Australia,Oceania,F,431
-China,Asia,F,569
-Canada,Africa,F,407
-Italy,Europe,F,172
-France,Europe,F,167
-United Kingdom,Asia,F,219
-Netherlands,Europe,F,278
-South Korea,Asia,F,221
-Japan,Asia,F,226
-Norway,Europe,F,183
-Spain,Europe,F,133
-Sweden,Europe,F,142
-Brazil,Americas,F,135
-Cuba,Americas,F,83
-Unified Team,Europe,F,117
-Finland,Europe,F,67
-Hungary,Europe,F,101
+﻿Team,Continent,Gender,Medal Won,tot_med
+United States of America,Americas,M,1024,2181
+Germany,Europe,M,710,1265
+Russia,Europe,M,595,1148
+Australia,Oceania,M,458,889
+China,Asia,M,294,863
+Canada,Africa,M,335,742
+Italy,Europe,M,430,602
+France,Europe,M,415,582
+United Kingdom,Asia,M,345,564
+Netherlands,Europe,M,238,516
+South Korea,Asia,M,270,491
+Japan,Asia,M,255,481
+Norway,Europe,M,204,387
+Spain,Europe,M,253,386
+Sweden,Europe,M,222,364
+Brazil,Americas,M,217,352
+Cuba,Americas,M,240,323
+Unified Team,Europe,M,162,279
+Finland,Europe,M,197,264
+Hungary,Europe,M,155,256
+United States of America,Americas,F,1157,2181
+Germany,Europe,F,555,1265
+Russia,Europe,F,553,1148
+Australia,Oceania,F,431,889
+China,Asia,F,569,863
+Canada,Africa,F,407,742
+Italy,Europe,F,172,602
+France,Europe,F,167,582
+United Kingdom,Asia,F,219,564
+Netherlands,Europe,F,278,516
+South Korea,Asia,F,221,491
+Japan,Asia,F,226,481
+Norway,Europe,F,183,387
+Spain,Europe,F,133,386
+Sweden,Europe,F,142,364
+Brazil,Americas,F,135,352
+Cuba,Americas,F,83,323
+Unified Team,Europe,F,117,279
+Finland,Europe,F,67,264
+Hungary,Europe,F,101,256
