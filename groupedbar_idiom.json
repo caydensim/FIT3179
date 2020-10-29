@@ -28,7 +28,7 @@
       "axis": {"title": ""}
     },
     "color":{
-      "field": "Gender", "type": "nominal", "scale": {"range": ["#F75B45", "#4E8AF9"]}
+      "field": "Gender", "type": "nominal", "scale": {"range": ["#EBEB07", "#057620"]}
     },
     "tooltip": [
       {"field": "Team", "type": "nominal"},
