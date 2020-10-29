@@ -1,56 +1,43 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 100,
-  "height": 400,
+  "height": 300,
+  "width": {"step": 40},
   "title": {"text": "Gender Breakdown of Olympic Medals", "align": "left"},
-  "data": {
-    "url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"
-  },
-  "params": [
-    {
-      "name": "Top_Countries",
-      "value": 41,
-      "bind": {
-        "input": "select",
-        "options": [11, 21, 31, 41],
-        "labels": ["5", "10", "15", "20"],
-        "name": "Top Number of Countries"
-      }
-    }
-  ],
+  "data": {"url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"},
   "transform": [
     {"calculate": "2*datum.tot_med/2", "as": "Total_Meds"},
     {
-      "window": [{"op": "rank", "as": "rank"}],
+      "window":[{
+        "op": "rank",
+        "as": "rank"
+      }],
       "sort": [{"field": "Total_Meds", "order": "descending"}]
     },
-    {"filter": "datum.rank <= Top_Countries"}
+    {"filter": "datum.rank <= 21"}
   ],
   "mark": "bar",
   "encoding": {
     "column": {
-      "field": "Team",
-      "type": "nominal",
-      "sort": "descending",
-      "spacing": 5,
-      "axis": {"title": ""}
+      "field": "Team", "type": "nominal", "sort": {"field": "rank"},
+      "spacing": 10, "axis": {"title": ""}
     },
-    "y": {
-      "field": "Medal_Won",
-      "type": "quantitative",
-      "axis": {"grid": false}
-    },
+    "y": {"field": "Medal_Won", "type": "quantitative",
+    "axis": {"grid": false}},
     "x": {
-      "field": "Gender",
-      "type": "nominal",
-      "sort": ["M", "F"],
+      "field": "Gender", "type": "nominal", "sort": ["M", "F"],
       "axis": {"title": ""}
     },
-    "color": {
-      "field": "Gender",
-      "type": "nominal",
-      "scale": {"range": ["#F75B45", "#4E8AF9"]}
-    }
+    "color":{
+      "field": "Gender", "type": "nominal", "scale": {"range": ["#F75B45", "#4E8AF9"]}
+    },
+    "tooltip": [
+      {"field": "Team", "type": "nominal"},
+      {"field": "Gender", "type": "nominal"},
+      {"field": "Medal_Won", "type": "quantitative"}
+    ]
   },
-  "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
+  "config":{
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
+  }
 }
