@@ -1,33 +1,32 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": {"text": "Summer Olympic Medals Won"},
-  "data": {
-    "url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/summer_1992.csv"
-  },
+    "title": {"text": "Summer Olympic Medals Won"},
+  "data": {"url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/summer_1992.csv"},
   "transform": [
     {"calculate": "2*datum.Total/2", "as": "tot"},
     {
-      "window": [{"op": "rank", "as": "rank"}],
-      "sort": [{"field": "tot", "order": "descending"}]
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }],
+        "sort": [{"field": "tot", "order": "descending"}]
     },
-    {"filter": "datum.rank <= 5"}
+        {"filter": "datum.rank <= 5"}
   ],
   "mark": "bar",
   "encoding": {
-    "y": {"field": "Team", "type": "nominal", "sort": {"field": "rank"}},
-    "x": {"field": "Total", "type": "quantitative"},
-    "color": {
-      "field": "Total",
-      "type": "quantitative",
-      "legend": null,
-      "scale": {"range": ["orange", "orange"]}
-    },
-    "tooltip": [
-      {"field": "Team", "type": "nominal"},
-      {"field": "Bronze", "type": "quantitative"},
-      {"field": "Silver", "type": "quantitative"},
-      {"field": "Gold", "type": "quantitative"}
-    ]
+  "y": {"field": "Team", "type": "nominal", "sort": {"field": "rank"},
+  "axis": {"title": ""}},
+  "x": {"field": "Total", "type": "quantitative", "axis": {"title": ""}},
+    "color": {"field": "Total", "type": "quantitative", "legend": null, 
+  "scale": {"range": ["orange", "orange"]}
   },
-  "config": {}
+    "tooltip": [
+    {"field": "Team", "type": "nominal"},
+    {"field": "Bronze", "type": "quantitative"},
+    {"field": "Silver", "type": "quantitative"},
+    {"field": "Gold", "type": "quantitative"}
+    ]
+  }
 }
