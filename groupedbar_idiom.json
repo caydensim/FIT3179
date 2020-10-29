@@ -36,7 +36,7 @@
       "axis": {"title": ""}
     },
     "y": {
-      "field": "Medal Won",
+      "field": "Medal_Won",
       "type": "quantitative",
       "axis": {"grid": false}
     },
