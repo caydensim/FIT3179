@@ -18,8 +18,12 @@
   <h2> Interactive Bubbleplot Visualisation </h2>
   <div id="bplot_idiom"></div>
   
-  <h2> Stacked Bar Chart Visualisation </h2>
+  <h2> Top Summer and Winter Olympic Medal Winning Countries </h2>
   <div id="sbar_idiom"></div>
+  <div id="wbar_idiom"></div>
+  
+  <h2> Stacked Bar Chart Visualisation </h2>
+  <div id="gbar_idiom"></div>
 
 <script type="text/javascript">
   var map1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/map_idiom.json";
@@ -32,8 +36,18 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-   var sbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/groupedbar_idiom.json";
+  var wbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/winterbar_1992.json";
+  vegaEmbed('#wbar_idiom', wbar1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+  var sbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/summerbar_1992.json";
   vegaEmbed('#sbar_idiom', sbar1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+   var gbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/groupedbar_idiom.json";
+  vegaEmbed('#gbar_idiom', gbar1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
