@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "height": 300,
   "width": {"step": 40},
-  "title": {"text": "Gender Breakdown of Olympic Medals", "align": "left"},
+  "title": {"text": "Gender Breakdown of Olympic Medals of Top Countries", "align": "left"},
   "data": {"url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"},
   "transform": [
     {"calculate": "2*datum.tot_med/2", "as": "Total_Meds"},
