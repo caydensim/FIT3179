@@ -2,15 +2,14 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "height": 300,
   "width": {"step": 40},
-  "title": {"text": "Gender Breakdown of Olympic Medals of Top Countries", "align": "left"},
-  "data": {"url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"},
+  "title": {"text": "Gender Breakdown of Olympic Medals", "align": "left"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"
+  },
   "transform": [
     {"calculate": "2*datum.tot_med/2", "as": "Total_Meds"},
     {
-      "window":[{
-        "op": "rank",
-        "as": "rank"
-      }],
+      "window": [{"op": "rank", "as": "rank"}],
       "sort": [{"field": "Total_Meds", "order": "descending"}]
     },
     {"filter": "datum.rank <= 21"}
@@ -18,17 +17,27 @@
   "mark": "bar",
   "encoding": {
     "column": {
-      "field": "Team", "type": "nominal", "sort": {"field": "rank"},
-      "spacing": 10, "axis": {"title": ""}
-    },
-    "y": {"field": "Medal_Won", "type": "quantitative",
-    "axis": {"grid": false}},
-    "x": {
-      "field": "Gender", "type": "nominal", "sort": ["M", "F"],
+      "field": "Team",
+      "type": "nominal",
+      "sort": {"field": "rank"},
+      "spacing": 10,
       "axis": {"title": ""}
     },
-    "color":{
-      "field": "Gender", "type": "nominal", "scale": {"range": ["#EBEB07", "#057620"]}
+    "y": {
+      "field": "Medal_Won",
+      "type": "quantitative",
+      "axis": {"grid": false, "title": "Medals Won"}
+    },
+    "x": {
+      "field": "Gender",
+      "type": "nominal",
+      "sort": ["M", "F"],
+      "axis": {"title": ""}
+    },
+    "color": {
+      "field": "Gender",
+      "type": "nominal",
+      "scale": {"range": ["#EBEB07", "#057620"]}
     },
     "tooltip": [
       {"field": "Team", "type": "nominal"},
@@ -36,8 +45,5 @@
       {"field": "Medal_Won", "type": "quantitative"}
     ]
   },
-  "config":{
-    "view": {"stroke": "transparent"},
-    "axis": {"domainWidth": 1}
-  }
+  "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
 }
