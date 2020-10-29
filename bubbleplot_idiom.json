@@ -41,9 +41,9 @@
   "layer": [
     {
       "selection": {
-        "participant_highlight": {
+        "continent_highlight": {
           "type": "multi",
-          "fields": ["Participants"],
+          "fields": ["Continent"],
           "bind": "legend"
         }
       },
@@ -57,8 +57,7 @@
         "color": {"field": "Continent", "type": "nominal"},
         "opacity": {
           "condition": {
-            "test": "datum.Participants < participant_highlight",
-            "value": 0.6
+            "selection": "continent_highlight","value": 0.6
           },
           "value": 0.2
         },
