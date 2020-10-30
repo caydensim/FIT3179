@@ -28,8 +28,7 @@
       "bin": {"step": 0.06},
       "scale": {
         "domain": "unaggregated",
-        "scheme": "darkmulti",
-        "reverse": true
+        "scheme": "yelloworangered"
       },
       "legend": {"title": "Participant Medal Rate", "format": "%"}
     },
