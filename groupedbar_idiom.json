@@ -37,7 +37,7 @@
     "color": {
       "field": "Gender",
       "type": "nominal",
-      "scale": {"range": ["#EBEB07", "#057620"]}
+      "scale": {"range": ["#E3513D", "#3D79E3"]}
     },
     "tooltip": [
       {"field": "Team", "type": "nominal"},
