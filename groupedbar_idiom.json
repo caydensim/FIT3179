@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "height": 300,
-  "width": {"step": 40},
+  "width": {"step": 30},
   "title": {"text": "Gender Breakdown of Olympic Medals", "align": "left"},
   "data": {
     "url": "https://raw.githubusercontent.com/caydensim/FIT3179/main/gender_country_1992.csv"
@@ -20,8 +20,8 @@
       "field": "Team",
       "type": "nominal",
       "sort": {"field": "rank"},
-      "spacing": 10,
-      "axis": {"title": ""}
+      "spacing": 17,
+      "title": ""
     },
     "y": {
       "field": "Medal_Won",
