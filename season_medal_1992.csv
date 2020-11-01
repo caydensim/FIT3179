@@ -39,19 +39,19 @@ Libya,Africa,0,0,0,38
 Sudan,Africa,1,0,1,39
 Belgium,Europe,48,1,49,800
 Djibouti,Africa,0,0,0,29
-Palestine,Oceania,0,0,0,21
+Palestine,Asia,0,0,0,21
 Comoros,Africa,0,0,0,19
 Kazakhstan,Asia,70,7,77,1429
 Brunei,Asia,0,0,0,10
-Kuwait,Oceania,2,0,2,125
+Kuwait,Asia,2,0,2,125
 Malaysia,Asia,16,0,16,288
 United Arab Emirates,Asia,2,0,2,97
 Indonesia,Asia,38,0,38,268
 Singapore,Asia,8,0,8,221
 Uzbekistan,Asia,33,1,34,495
-Kyrgyzstan,Oceania,3,0,3,227
+Kyrgyzstan,Asia,3,0,3,227
 Tajikistan,Asia,4,0,4,70
-Unified Team,Europe,220,59,279,864
+Unified Team,Other,220,59,279,864
 Japan,Asia,425,56,481,4129
 Ethiopia,Africa,43,0,43,200
 Germany,Europe,938,327,1265,5685
@@ -59,15 +59,15 @@ Sweden,Europe,167,197,364,2440
 United States of America Virgin Islands,Americas,0,0,0,141
 Sri Lanka,Asia,1,0,1,86
 Armenia,Asia,16,0,16,221
-Cote d'Ivoire,Americas,2,0,2,101
+Cote d'Ivoire,Africa,2,0,2,101
 Kenya,Africa,69,0,69,396
 Nigeria,Africa,92,0,92,559
 Brazil,Americas,352,0,352,2329
 Ukraine,Europe,188,11,199,2559
 Ghana,Africa,20,0,20,170
-Latvia,Oceania,17,15,32,788
-Syria,Europe,2,0,2,55
-Lebanon,Oceania,0,0,0,82
+Latvia,Europe,17,15,32,788
+Syria,Asia,2,0,2,55
+Lebanon,Asia,0,0,0,82
 Mali,Africa,0,0,0,65
 Switzerland,Europe,59,124,183,2123
 India,Asia,14,0,14,574
@@ -79,14 +79,14 @@ Portugal,Europe,13,0,13,703
 Bulgaria,Europe,82,5,87,1236
 Poland,Europe,152,23,175,2431
 Angola,Africa,0,0,0,217
-Venezuela,Oceania,7,0,7,521
+Venezuela,Americas,7,0,7,521
 Colombia,Americas,22,0,22,617
 Bangladesh,Asia,0,0,0,42
 Jordan,Asia,1,0,1,50
 Somalia,Africa,0,0,0,14
 Saudi Arabia,Asia,6,0,6,142
 Puerto Rico,Americas,5,0,5,401
-United Kingdom,Asia,539,25,564,3723
+United Kingdom,Europe,539,25,564,3723
 Uganda,Africa,2,0,2,95
 Tunisia,Africa,8,0,8,359
 Honduras,Americas,0,0,0,136
@@ -99,7 +99,7 @@ Czechia,Europe,71,73,144,1874
 Niger,Africa,1,0,1,30
 Saint Kitts and Nevis,Americas,0,0,0,42
 New Zealand,Oceania,112,1,113,1411
-Liberia,Oceania,0,0,0,29
+Liberia,Africa,0,0,0,29
 Suriname,Americas,1,0,1,44
 Nepal,Asia,0,0,0,44
 Mongolia,Asia,15,0,15,235
@@ -132,12 +132,12 @@ Saint Vincent and the Grenadines,Americas,0,0,0,36
 Cyprus,Asia,1,0,1,163
 Papua New Guinea,Oceania,0,0,0,72
 Yemen,Asia,0,0,0,32
-Individual Olympic Athletes,Asia,5,0,5,94
+Individual Olympic Athletes,Other,5,0,5,94
 Oman,Asia,0,0,0,31
 Fiji,Oceania,13,0,13,146
 Vanuatu,Oceania,0,0,0,29
 Jamaica,Americas,125,0,125,477
-Moldova,Oceania,8,0,8,234
+Moldova,Europe,8,0,8,234
 Guatemala,Americas,1,0,1,168
 Israel,Asia,9,0,9,388
 Serbia,Europe,85,0,85,390
@@ -145,7 +145,7 @@ Monaco,Europe,0,0,0,89
 British Virgin Islands,Europe,0,0,0,26
 Iceland,Europe,15,0,15,273
 Costa Rica,Americas,3,0,3,103
-Central African Rep.,Americas,0,0,0,48
+Central African Rep.,Africa,0,0,0,48
 Madagascar,Africa,0,0,0,73
 Bosnia and Herzegovina,Europe,0,0,0,134
 Guam,Oceania,0,0,0,85
@@ -156,21 +156,21 @@ Barbados,Americas,1,0,1,118
 Ecuador,Americas,2,0,2,174
 Guinea Bissau,Africa,0,0,0,21
 Sierra Leone,Africa,0,0,0,48
-Timor Leste,Asia,0,0,0,9
-Dem. Rep. Congo,Europe,0,0,0,55
+Timor Leste,Africa,0,0,0,9
+Dem. Rep. Congo,Africa,0,0,0,55
 Gabon,Africa,1,0,1,56
 Bahamas,Americas,36,0,36,221
 San Marino,Europe,0,0,0,64
 Thailand,Asia,27,0,27,401
-Laos,Oceania,0,0,0,32
+Laos,Asia,0,0,0,32
 Botswana,Africa,1,0,1,63
-Refugee Olympic Athletes,Asia,0,0,0,12
-North Korea,Oceania,43,1,44,501
+Refugee Olympic Athletes,Other,0,0,0,12
+North Korea,Asia,43,1,44,501
 Mozambique,Africa,2,0,2,36
 Solomon Islands,Oceania,0,0,0,19
-Cape Verde,Africa,0,0,0,18
+Cape Verde,Americas,0,0,0,18
 Equatorial Guinea,Africa,0,0,0,28
-Bolivia,Asia,0,0,0,78
+Bolivia,Americas,0,0,0,78
 Andorra,Europe,0,0,0,123
 Antigua and Barbuda,Americas,0,0,0,64
 Luxembourg,Europe,0,2,2,96
@@ -179,69 +179,35 @@ Grenada,Americas,2,0,2,41
 Senegal,Africa,0,0,0,177
 Hong Kong,Asia,4,0,4,347
 Saint Lucia,Americas,0,0,0,28
-Federated States of Micronesia,Europe,0,0,0,26
+Federated States of Micronesia,Oceania,0,0,0,26
 Myanmar,Asia,0,0,0,38
 Afghanistan,Asia,2,0,2,20
-Yugoslavia,Asia,0,0,0,60
+Yugoslavia,Europe,0,0,0,60
 Guinea,Africa,0,0,0,40
 Taiwan,Asia,46,0,46,573
 Sao Tome and Principe,Africa,0,0,0,15
 Congo,Africa,0,0,0,47
-Macedonia,Asia,1,0,1,84
+Macedonia,Europe,1,0,1,84
 Tonga,Oceania,1,0,1,32
 Montenegro,Europe,14,0,14,94
 Gambia,Africa,0,0,0,34
-Tanzania,Asia,0,0,0,51
-Mistral Hojris,Oceania,0,0,0,1
+Tanzania,Africa,0,0,0,51
 Cook Islands,Oceania,0,0,0,32
 Albania,Europe,0,0,0,65
-Relampago,Asia,0,0,0,1
 Swaziland,Africa,0,0,0,37
 Burundi,Africa,2,0,2,39
 Aruba,Americas,0,0,0,30
 Liechtenstein,Europe,0,0,0,124
-Whitini Star,Africa,0,0,0,1
 Nauru,Oceania,0,0,0,13
-Lucky Star,Europe,0,0,0,1
-Briar,Americas,0,0,0,1
-Gran Gesto,Europe,0,0,0,1
 Zambia,Africa,1,0,1,55
 Vietnam,Asia,4,0,4,104
-Elvis Va,Americas,1,0,1,1
-Netherlands Antilles,Europe,0,0,0,28
 Cambodia,Asia,0,0,0,29
 Malawi,Africa,0,0,0,24
-Calimucho,Africa,0,0,0,1
 Bhutan,Asia,0,0,0,24
 Marshall Islands,Oceania,0,0,0,14
 Kiribati,Oceania,0,0,0,11
-Oxalis,Asia,0,0,0,1
 Tuvalu,Oceania,0,0,0,7
-Kosovo,Oceania,1,0,1,8
+Kosovo,Europe,1,0,1,8
 South Sudan,Africa,0,0,0,3
-Don Schufro,Americas,1,0,1,1
 Burkina Faso,Africa,0,0,0,34
-Lancet,Oceania,0,0,0,1
-Whisper,Africa,0,0,0,1
-Clearwater,Americas,1,0,1,0
-Lesotho,Oceania,0,0,0,46
-Bonaparte,Americas,1,0,1,1
-Mythilus,Asia,0,0,0,1
-Rambo,Asia,0,0,0,1
-Floresco,Europe,0,0,0,1
-Brentina,Americas,0,0,0,1
-Nadine,Asia,1,0,1,1
-Pop Art,Europe,0,0,0,1
-Quando Quando,Asia,0,0,0,1
-Diabolo St Maurice,Europe,0,0,0,1
-Ravel,Asia,0,0,0,1
-Notavel,Europe,0,0,0,1
-Galopin De La Font,Africa,0,0,0,1
-Orion,Asia,0,0,0,1
-Greenoaks Dundee,Americas,0,0,0,1
-Sunrise,Africa,1,0,1,1
-Salinero,Americas,1,0,1,1
-Satchmo,Africa,1,0,1,1
-Solos Carex,Oceania,0,0,0,1
-Dow Jones,Americas,0,0,0,1
-Digby,Europe,1,0,1,1
+Lesotho,Africa,0,0,0,46
