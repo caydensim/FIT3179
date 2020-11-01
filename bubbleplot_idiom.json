@@ -59,7 +59,7 @@
           "type": "nominal",
           "scale": {
             "domain": "unaggregated",
-            "range": ["#812929", "#3D79E3", "#E3513D", "#9B30A9", "#52D0D4"]
+            "range": ["#812929", "#3D79E3", "#E3513D", "#9B30A9", "#52D0D4", "Darkgreen"]
           }
         },
         "opacity": {
