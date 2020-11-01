@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+
+<title>Olympic Medals 1992-2016</title>
+
+<style>
+  *{
+    font-family: 'Arial';
+}
+
+.header{
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Times New Roman';
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 30px;
+  background-color: rgb(168, 30, 30);
+}
+
+.subtitle{
+  text-align: center;
+  background-color: rgb(212, 117, 82);
+  font-size: 24px;
+  color: rgb(226, 224, 224);
+}
+
+.black{
+  color: rgb(71, 71, 71);
+}
+
+
+h1{
+    color: #545454;
+}
+
+
+p{
+    color: #7e7e7e;
+}
+
+body{
+    background-color: grey;
+}
+
+.description-right{
+  padding-left: 20px;
+}
+
+.description, h2, h1{
+  margin-top: 0px;
+}
+
+.description-left{
+  padding-right: 20px;
+}
+
+.pure-g{
+  margin-bottom: 25px;
+}
+
+.page{
+  width: 1200px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+  padding-top: 35px;
+}
+
+.center{
+  justify-content: center;
+  text-align: center;
+}
+
+.vis-container{
+  width: 100%;
+}
+
+.smallfont{
+  font-size: 12px;
+}
+
+
+</style>
+
+</head>
+<body>
+  <div class="page">
+
+    <!--Title group-->
+    <div class= "header">
+      <h1 style="color: white;"><strong style="font-family: 'Times New Roman';">Olympic Medals 1992 - 2016</strong></h1>
+    </div>
+    <div class= "pure-g smallfont" style="margin: 0px;">
+        <div class= "pure-u-1-3 center"><p> Cayden Sim - 29680611 </p></div>
+        <div class= "pure-u-1-3 center"><p> FIT3179 - Assignment 2 </p></div>
+        <div class= "pure-u-1-3 center"><p> Tutor: Joe Liu </p></div>
+    </div>
+
+
+  <div class="pure-g">
+    <div class="pure-u-1">
+      <h1 class= "subtitle"> The Olympics </h1>
+        <p>The Olympic Games is an international sporting event featuring over <strong>200 nations</strong> of the world.
+        Since its inception in <strong>393AD</strong>, the Olympics has been held once every 4 years. The Olympics comprises of the <strong style="color: rgb(255, 100, 44);">Summer</strong> 
+        and <strong style="color: rgb(68, 133, 187);">Winter</strong> games - which are held in alternative periods. Countries and Nations of <strong style="color: rgb(36, 36, 224);">Men</strong> and 
+        <strong style="color: rgb(247, 76, 76);">Women</strong> strive for Olympic success in the Summer, and in the Winter, in a competition of respect and sportsmanship.</p>
+      <p>This Visualisation explores the Olympic Games from <strong class="black"><i>1992 to 2016</i></strong>, where 7 Summer Games and 6 Winter Games make up the time period.
+      It explores participant effiencies, medal breakdown, gender distribution, and overall dominant summer and winter nations</p>
+    </div>
+  </div>
+    
+    <!--Map Idiom Group-->
+    <h1 class= "subtitle" style="margin-bottom: 0px;"> Participant Efficiency </h1>
+    <div class= "pure-g">
+      <div class= "pure-u-1-4">
+        <p>The Olympics casts away classifications of ethnicity. Those that compete are equal as humans. However, differing <strong>technology, training processes, mindsets, and levels of determination</strong>
+           could set dominant olympic countries apart. The visualisation on the right is a projection of the efficiency of nations in the <strong><i>absolute number of athletes</i></strong>  sent over the years, and the <strong><i>relative success of medals earnt</i></strong> from those atheletes.
+        </p>
+        <p><strong class="black">Nations</strong> with a higher <strong style="color: rgb(211, 37, 37);">Participant Medal Rate</strong> translates to winning more medals per athlete sent to compete.</p>
+        <p>The most efficient country between 1992 and 2016 is the <strong class="black">United States of America</strong>, with a <i class="black">Medal Won per 0.30 Participants</i>.</p>
+      </div>
+      <div class= "pure-u-3-4 center">
+        <div id="map_idiom" class= vis_container></div>
+      </div>
+    </div>
+
+    <!--Bubble Plot Group-->
+    <h1 class="subtitle"> Successful Olympic Nations </h1>
+    <div class="pure-g">
+      <div class= "pure-u-2-3">
+        <div id="bplot_idiom" class="vis_container"></div>
+      </div>
+      <div class= "pure-u-1-3">
+        <p><strong>Success</strong> at the Olympics is determined by the <strong><i>Number of Medals Won</i></strong>. With the weighting of each <strong style="color: gold;">Gold</strong>,  <strong style="color: rgb(155, 155, 155)">Silver</strong>, and <strong style="color: rgb(153, 83, 36)">Bronze</strong> medal
+         differing from year to year, the debate for the <i>fairest</i> system is still present.</p>
+         <p>The <i>Bubbleplot</i> visualises the number of <strong style="color: rgb(255, 100, 44);">Summer</strong> and <strong style="color: rgb(68, 133, 187);">Winter</strong> medals
+        won by each Country.</p>
+        <p>The Olympics provides the opportunity for every man and woman on the planet to participate in, no matter the ethnicity, history, or current political climate.</p>
+        <p>However, we can see that countries in <strong>North America</strong> and <strong>Europe</strong> dominate the medal counts as compared to other developing continents such as <strong>Africa</strong> and <strong>Oceania</strong>.</p>
+        <p>The advancement in <i>technology</i> and <i>science</i> creates another dimension for athlete and country success. Yet this does not nullify talent and hardwork. It only encourages it.</p>
+        <p>Nations such as <strong>Singapore</strong> are considered <i>wealthy</i> and <i>developed</i>, but due to their small population size and hence small pool of athletes, a singular <strong style="color: gold;">Gold</strong> medal
+        was celebrated to the extent that a <strong>public holiday was announced on that date</strong>.</p>
+        
+      </div>
+    </div>
+
+    
+    <!--Summer and Winter bar chart Group-->
+    <h1 class="subtitle"> Top Summer and Winter Olympic Medal Winning Countries </h1>
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <p>The <strong style="color: rgb(255, 100, 44);">Summer</strong> and <strong style="color: rgb(68, 133, 187);">Winter</strong> games are two drastically different environments.
+          Countries dominant in one may not be as dominant in the other. </p>
+          <p>The <strong style="color: rgb(255, 100, 44);">Summer</strong> games consists of events such as <i style="color:black">athletics, archery, swimming, and gymnastics</i>. The 
+            <strong style="color: rgb(255, 100, 44);">Summer</strong> games are seen to be the <strong>bigger</strong> of the two games as there are more medals to be won, and the nature of the sports allows
+           many non-winter nations to participate and train for.</p>
+          <p>The <strong style="color: rgb(68, 133, 187);">Winter</strong> games consists of events such as <i style="color: black;">speed skating, skiing, snowboarding, and bobsleighing</i>. Due to the requirement
+          of snow in order to train and build on skills and techniques, many humid - hot weathered nations are unable to provide athletes for the <strong style="color: rgb(68, 133, 187);">Winter</strong> games.
+        </p>
+        <p>Between 1992 and 2016, the <strong>USA</strong> has heavily dominated in the <strong style="color: rgb(255, 100, 44);">Summer</strong> games. Their unmatched 7,000+ athletes with a medal winning rate of 0.30
+          sets them head and shoulders ahead of every other country in terms of medal count.</p>
+          <p>In the <strong style="color: rgb(68, 133, 187);">Winter</strong> games, <strong>Canada</strong> leads the way with number of medals won. <strong>Canada's</strong> available cold weather and mountain slopes
+          allows for a perfect environment for <strong style="color: rgb(68, 133, 187);">Winter</strong> game atheletes to train. The lack of Asian, South American, African, and Oceanic success in the <strong style="color: rgb(68, 133, 187);">Winter</strong> games
+        highlights the importance of such environments for its athletes to succeed.</p>
+      </div>
+      <div class="pure-u-1-2 center">
+        <div id="sbar_idiom" class= vis_container></div>
+        <div id="wbar_idiom" class= vis_container></div>
+      </div>
+    </div>
+
+    <!--Gender Group-->
+    <h1 class="subtitle"> Gender Contributions </h1>
+    <div class="pure-g">
+      <div class="pure-u-1 center">
+        <div id="gbar_idiom" class= vis_container></div>
+      </div>
+      <div class="pure-u-1">
+        <p>The <strong>World</strong> and each <strong>Country</strong> is made up of its <strong style="color: rgb(36, 36, 224);">Men</strong> and <strong style="color: rgb(247, 76, 76);">Women</strong>. Every sport in the Olympics has a 
+        male and female side to the competition, with medals given and weighed the same. <strong>Genders</strong> are treated equally.</p>
+        <p>Looking at the <strong>Top 10 Medal Winning Countries</strong>, we can see an overall equal involvement and contributions of the <strong style="color: rgb(36, 36, 224);">Men</strong> and <strong style="color: rgb(247, 76, 76);">Women</strong>.
+          </p>
+          <p>The Olympics, to the extent of availability of participant to Countries of the World, to Humans of the World - <strong style="color: rgb(36, 36, 224);">Man</strong> or <strong style="color: rgb(247, 76, 76);">Woman</strong>, 
+            <strong style="color:#E3513D;">Asian</strong>, <strong style="color: #812929;">African</strong>, <strong style="color: #9B30A9;">European</strong>, <strong style="color: #52D0D4;">Oceanic</strong>, <strong style="color: #3D79E3;">American</strong>, or <strong style="color: Darkgreen;">otherwise</strong>,
+             is an event for the world to <strong>highlight the unity of the Human Race</strong>.
+          </p>
+        </div>
+      </div>
+
+
+    <!--Whitespace-->
+    <div class="pure-g">
+      <div class="pure-u-1">
+        <p style="padding-bottom: 50px;"></p>
+      </div>
+    </div>
+
+
+<script type="text/javascript">
+  var map1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/map_idiom.json";
+  vegaEmbed('#map_idiom', map1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+   var bplot1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/bubbleplot_idiom.json";
+  vegaEmbed('#bplot_idiom', bplot1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+  var wbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/winterbar_1992.json";
+  vegaEmbed('#wbar_idiom', wbar1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+  var sbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/summerbar_1992.json";
+  vegaEmbed('#sbar_idiom', sbar1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+   var gbar1 = "https://raw.githubusercontent.com/caydensim/FIT3179/main/groupedbar_idiom.json";
+  vegaEmbed('#gbar_idiom', gbar1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
+
+</body>
+</html>
