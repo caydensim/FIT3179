@@ -3,6 +3,7 @@
   "width": 800,
   "height": 400,
   "title": "Medals Won by Number of Participants",
+  "description": "A choropleth visualisation highlighting Participant Medal Rate of each Country of the Olympics",
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://caydensim.github.io/FIT3179/ne_110m_admin_0_countries.json",
@@ -27,7 +28,12 @@
       "type": "quantitative",
       "bin": {"step": 0.06},
       "scale": {"domain": "unaggregated", "scheme": "yelloworangered"},
-      "legend": {"title": "Participant Medal Rate", "format": "%", "direction": "horizontal", "orient": "bottom"}
+      "legend": {
+        "title": "Participant Medal Rate",
+        "format": "%",
+        "direction": "horizontal",
+        "orient": "bottom"
+      }
     },
     "stroke": {"value": "white"},
     "tooltip": [
@@ -39,5 +45,5 @@
       {"field": "Norm", "type": "quantitative"}
     ]
   },
-  "config": {}
+  "config": {"font": "Arial"}
 }
