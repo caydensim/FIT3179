@@ -1,4 +1,4 @@
-# FIT3179
+# FIT3179 - Assignment 2
 Monash University - FIT3179
 
 The Visualisation titled "Olympic Medals 1992 - 2016" is displayed via 'https://caydensim.github.io/FIT3179/assignment2'.
